@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { EventsList } from '@/components/event/events';
 import { apiService } from '@/services/apiService';
 
-export default async function Events() {
+export default async function EventsPage() {
   const events = await apiService.getEvents();
 
   if (events.length === 0) {

@@ -1,5 +1,5 @@
 import { Welcome } from '@/view/welcome';
 
-export default function Home() {
+export default function HomePage() {
   return <Welcome />;
 }

@@ -1,18 +1,28 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+
 type ButtonLinkProps = {
   label: string;
   url: string;
   size: 'small' | 'medium' | 'large';
+  openInNewTab?: boolean;
 };
 
-export function ButtonLink({ label, url, size }: ButtonLinkProps) {
+export function ButtonLink({
+  label,
+  url,
+  size,
+  openInNewTab,
+}: ButtonLinkProps) {
   const router = useRouter();
-  console.log(size)
 
   const clickHandler = () => {
-    router.push(url);
+    if (openInNewTab) {
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } else {
+      router.push(url);
+    }
   };
 
   return (

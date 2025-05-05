@@ -1,4 +1,4 @@
-export default function Contribute() {
+export default function ContributePage() {
   return (
     <div>Contribute</div>
   );

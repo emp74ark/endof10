@@ -1,5 +1,5 @@
-export default function Install() {
-  return (
-    <main>Install</main>
-  );
+import { Install } from '@/view/install';
+
+export default function InstallPage() {
+  return <Install />;
 }

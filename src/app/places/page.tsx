@@ -1,7 +1,7 @@
 import { apiService } from '@/services/apiService';
 import { PlacesList } from '@/components/place';
 
-export default async function Places() {
+export default async function PlacesPage() {
   const places = await apiService.getPlaces();
 
   if (places.length === 0) {
