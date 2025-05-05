@@ -27,6 +27,9 @@ class ApiService {
       const response = await fetch(
         `${this.countriesUrl}/${code}?fields=name,flags`
       );
+      if (response.status !== 200) {
+        return null;
+      }
       return await response.json();
     } catch {
       throw new Error(`Could not fetch country info by code: ${code}`);

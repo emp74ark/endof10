@@ -21,6 +21,8 @@ export interface IEvent {
   description: string;
   inLanguage: string;
   url: string;
+  email?: string;
+  telephone?: string;
   streetAddress: string;
   postalCode: string;
   addressLocality: string;
@@ -29,6 +31,9 @@ export interface IEvent {
   latitude: number;
   longitude: number;
   estimatedCost: string;
+  eventAttendanceMode?:
+    | 'https://schema.org/OfflineEventAttendanceMode'
+    | 'https://schema.org/OnlineEventAttendanceMode';
 }
 
 export interface ICountry {
