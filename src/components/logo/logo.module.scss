@@ -1,0 +1,22 @@
+@use '@/styles/mixins/blocks' as *;
+
+.logo {
+  height: 6rem;
+  background-image: url('/icon-light.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  width: fit-content;
+  padding: 1rem 2rem;
+
+  @include block-hover();
+
+  @media (prefers-color-scheme: dark) {
+    background-image: url('/icon-dark.svg');
+  }
+}

@@ -1,0 +1,16 @@
+.footer {
+  background: var(--footer-bg);
+  color: var(--text-footer);
+  padding: 1rem 2rem;
+
+  & p span {
+    margin-right: 0.5ch;
+  }
+
+  & p a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5ch;
+    margin-right: 0.5ch;
+  }
+}

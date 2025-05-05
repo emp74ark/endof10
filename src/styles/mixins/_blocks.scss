@@ -1,0 +1,15 @@
+@mixin block-hover {
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: #fff2;
+    box-shadow: 0 0 0 10px #fff2;
+  }
+}
+
+@mixin card {
+  margin: 4rem auto 6rem;
+  padding: 1.5rem 2.5rem;
+  border-radius: 3rem;
+  background: var(--tertiary);
+  background: linear-gradient(0deg, var(--secondary) 0%, var(--tertiary) 75%);
+}

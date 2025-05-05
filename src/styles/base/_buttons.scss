@@ -1,0 +1,26 @@
+@use 'sass:list';
+@use 'sass:map';
+
+$button-size: (small: 0.8rem, medium: 1rem, large: 1.2rem);
+
+body {
+  @each $size, $font in $button-size {
+    .button__#{$size} {
+      padding: 0.8rem 2rem;
+      font-size: $font;
+      border-radius: calc((1.6rem + $font) / 2);
+      background-color: var(--tertiary);
+      color: var(--text-main);
+      font-weight: 500;
+      transition: all 0.3s cubic-bezier(0.17, 0.89, 0.32, 1.28);
+
+      &:hover {
+        box-shadow: var(--box-shadow);
+      }
+
+      &:active {
+        transform: scale(0.98);
+      }
+    }
+  }
+}
