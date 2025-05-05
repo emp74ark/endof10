@@ -25,6 +25,18 @@ main {
   margin: 0;
 }
 
+ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  & li {
+    line-height: 1.5;
+  }
+}
+
+section {
+  margin: 1.5rem 0;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

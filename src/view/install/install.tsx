@@ -5,7 +5,7 @@ import clsx from 'clsx';
 export function Install() {
   return (
     <main className={styles.install}>
-      <h1>DIY Install Guide</h1>
+      <h2>DIY Install Guide</h2>
       <p className="p4">
         We recommend getting in-person support for the best experience.
       </p>

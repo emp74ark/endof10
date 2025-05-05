@@ -6,9 +6,9 @@ $button-size: (small: 0.8rem, medium: 1rem, large: 1.2rem);
 body {
   @each $size, $font in $button-size {
     .button__#{$size} {
-      padding: 0.8rem 2rem;
+      padding: $font 2rem;
       font-size: $font;
-      border-radius: calc((1.6rem + $font) / 2);
+      border-radius: calc($font * 3 / 2);
       background-color: var(--tertiary);
       color: var(--text-main);
       font-weight: 500;

@@ -1,5 +1,24 @@
 export default function TeamPage() {
   return (
-    <div>Team</div>
+    <main>
+      <h2>Team behind End of 10</h2>
+      <p className="p4">
+        This campaign has been made possible by the enthusiastic contributions
+        of the following people (listed in alphabetical order by last name):
+      </p>
+
+      <ul>
+        <li>Tobias Bernard (GNOME Design Team)</li>
+        <li>Joseph P. De Veaugh-Geiss (KDE Eco)</li>
+        <li>Tobias Diekershoff (FSFE)</li>
+        <li>Nico Düsing (Web Development)</li>
+        <li>Bettina Louis (Outreach, Events, Lifelong learning)</li>
+        <li>Bernard Sadaka (Outreach)</li>
+        <li>Carolina Silva Rode (Outreach Latin America)</li>
+        <li>Nicole Teale (KDE&apos;s Opt Green)</li>
+        <li>Geoffrey Teale (Website)</li>
+        <li>Gerardo Zamudio (Outreach)</li>
+      </ul>
+    </main>
   );
 }

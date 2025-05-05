@@ -13,7 +13,10 @@ export function Footer() {
       <p className="p5">
         <Link href="/">End of 10 website content</Link>
         <span>is licensed under</span>
-        <Link href="https://creativecommons.org/licenses/by/4.0/">
+        <Link
+          href="https://creativecommons.org/licenses/by/4.0/"
+          target="_blank"
+        >
           CC BY 4.0
           <Image src="/cc.svg" alt="Creative Commons" width={16} height={16} />
           <Image src="/by.svg" alt="Attribution" width={16} height={16} />
@@ -26,9 +29,14 @@ export function Footer() {
         </span>
         <Link href="mailto:kde-www@kde.org">KDE Webmasters</Link>
         <span>(public mailing list) or see the</span>
-        <Link href="https://kde.org/privacypolicy/">Privacy Policy</Link>
+        <Link href="https://kde.org/privacypolicy/" target="_blank">
+          Privacy Policy
+        </Link>
         <span>and</span>
-        <Link href="https://kde.org/community/whatiskde/impressum/">
+        <Link
+          href="https://kde.org/community/whatiskde/impressum/"
+          target="_blank"
+        >
           Legal Notices
         </Link>
         <span>for more information.</span>
