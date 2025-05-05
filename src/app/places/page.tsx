@@ -1,12 +1,14 @@
 import { apiService } from '@/services/apiService';
 import { PlacesList } from '@/components/place';
+import { InputSearch } from '@/components/input-search';
 
-export default async function PlacesPage() {
-  const places = await apiService.getPlaces();
+type PlacesPageProps = {
+  searchParams: Promise<Record<string, string>>;
+};
 
-  if (places.length === 0) {
-    return <h2>No places found</h2>;
-  }
+export default async function PlacesPage({ searchParams }: PlacesPageProps) {
+  const { search } = await searchParams;
+  const places = await apiService.getPlaces(search);
 
   return (
     <main>
@@ -16,6 +18,7 @@ export default async function PlacesPage() {
         and collectives where you can get help with Linux on a regular basis.
         Also take a look at the events.
       </p>
+      <InputSearch target="places" />
       <PlacesList places={places} />
     </main>
   );

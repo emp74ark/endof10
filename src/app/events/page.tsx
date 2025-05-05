@@ -1,13 +1,16 @@
 import Link from 'next/link';
 import { EventsList } from '@/components/event/events';
 import { apiService } from '@/services/apiService';
+import { InputSearch } from '@/components/input-search';
 
-export default async function EventsPage() {
-  const events = await apiService.getEvents();
+type EventsPageProps = {
+  searchParams: Promise<Record<string, string>>;
+};
 
-  if (events.length === 0) {
-    return <h2>No places found</h2>;
-  }
+export default async function EventsPage({ searchParams }: EventsPageProps) {
+  const { search } = await searchParams;
+  const events = await apiService.getEvents(search);
+
   return (
     <main>
       <h2>Upcoming Events</h2>
@@ -16,6 +19,7 @@ export default async function EventsPage() {
         look for <Link href="/places">places</Link> that provide help more
         regularly.
       </p>
+      <InputSearch target="events" />
       <EventsList events={events} />
     </main>
   );
