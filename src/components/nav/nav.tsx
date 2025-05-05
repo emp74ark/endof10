@@ -17,7 +17,7 @@ export function Nav({ variant }: NavProps) {
       className={clsx(
         styles.nav,
         variant === NavVariant.Header && styles.nav__header,
-        variant === NavVariant.Footer && styles.nav__footer,
+        variant === NavVariant.Footer && styles.nav__footer
       )}
     >
       <ul>
@@ -42,7 +42,10 @@ export function Nav({ variant }: NavProps) {
               <Link href="/contribute">Contribute</Link>
             </li>
             <li>
-              <Link href="https://invent.kde.org/websites/endof10-org">
+              <Link
+                href="https://invent.kde.org/websites/endof10-org"
+                target="_blank"
+              >
                 Website source
               </Link>
             </li>
