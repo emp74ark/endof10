@@ -6,10 +6,20 @@
   }
 }
 
-@mixin card {
-  margin: 4rem auto 6rem;
+@mixin card($borderRadius) {
+  @if $borderRadius == 'small' {
+    border-radius: 1rem;
+  }
+
+  @else if $borderRadius == 'large' {
+    border-radius: 3rem;
+  }
+
+  @else {
+    border-radius: 1.5rem;
+  }
+
   padding: 1.5rem 2.5rem;
-  border-radius: 3rem;
   background: var(--tertiary);
   background: linear-gradient(0deg, var(--secondary) 0%, var(--tertiary) 75%);
 }

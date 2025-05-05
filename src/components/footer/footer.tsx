@@ -4,6 +4,7 @@ import { NavVariant } from '@/components/nav/nav';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Languages } from '@/components/languages';
+import clsx from 'clsx';
 
 export function Footer() {
   return (
@@ -18,7 +19,7 @@ export function Footer() {
           <Image src="/by.svg" alt="Attribution" width={16} height={16} />
         </Link>
       </p>
-      <p className="p5">
+      <p className={clsx('p5', 'txt__center')}>
         <span>
           Thanks to KDE for supporting the project by hosting the website and
           providing the infrastructure. You can contact the

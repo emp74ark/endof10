@@ -25,7 +25,7 @@
   font-size: 28px;
 }
 
-$title-font-sizes: 2.2rem, 2rem, 1.5rem, 1.2rem, 1.1rem;
+$title-font-sizes: 2.2rem, 2rem, 1.2rem, 1.1rem, 1rem;
 
 $p-font-sizes: 1.6rem, 1.25rem, 1.125rem, 1rem, 0.8rem;
 
@@ -37,11 +37,19 @@ $font-weights: (
         extrabold: 900,
 );
 
+$title-font-weight: (
+        h1: map.get($font-weights, extrabold),
+        h2: map.get($font-weights, bold),
+        h3: map.get($font-weights, semibold),
+        h4: map.get($font-weights, semibold),
+        h5: map.get($font-weights, semibold),
+);
+
 @mixin title-styles($index) {
   $font-size: list.nth($title-font-sizes, $index);
 
   font-size: list.nth($title-font-sizes, $index);
-  font-weight: map.get($font-weights, extrabold);
+  font-weight: map.get($title-font-weight, h#{$index});
 }
 
 @mixin paragraph-styles($index) {

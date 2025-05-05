@@ -1,0 +1,26 @@
+@use '@/styles/mixins/blocks' as *;
+
+.place {
+  display: flex;
+  flex-direction: column;
+  gap: 1ch;
+  margin: 1rem auto;
+  width: 80%;
+  max-width: 30rem;
+
+  @include card('medium');
+
+  & li {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1.5ch;
+    padding: 0.5ch 0;
+  }
+}
+
+.places {
+  display: flex;
+  flex-wrap: wrap;
+}
