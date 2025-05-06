@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Team behind End of 10",
     "thisCampaign": "This campaign has been made possible by the enthusiastic contributions of the following people (listed in alphabetical order by last name):"
+  },
+  "404": {
+    "pageNotFound": "Page not found"
   }
 }

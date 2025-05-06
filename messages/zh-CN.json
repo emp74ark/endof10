@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "落后于10末的团队",
     "thisCampaign": "以下人员的热情贡献使这项运动成为可能（按姓氏按字母顺序列出）："
+  },
+  "404": {
+    "pageNotFound": "页面未找到"
   }
 }

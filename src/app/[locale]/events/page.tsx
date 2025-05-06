@@ -3,6 +3,8 @@ import { EventsList } from '@/components/event';
 import { apiService } from '@/services/apiService';
 import { InputSearch } from '@/components/input-search';
 import { getTranslations } from 'next-intl/server';
+import { Suspense } from 'react';
+import { Spinner } from '@/components/spinner';
 
 type EventsPageProps = {
   searchParams: Promise<Record<string, string>>;
@@ -22,7 +24,9 @@ export default async function EventsPage({ searchParams }: EventsPageProps) {
         {t('thatProvideHelpMoreRegularly')}
       </p>
       <InputSearch target="events" />
-      <EventsList events={events} />
+      <Suspense key={search} fallback={<Spinner />}>
+        <EventsList events={events} />
+      </Suspense>
     </main>
   );
 }

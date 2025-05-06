@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Ekipa za konec 10",
     "thisCampaign": "To kampanjo so omogočili navdušeni prispevki naslednjih ljudi (navedena po abecednem vrstnem redu po priimku):"
+  },
+  "404": {
+    "pageNotFound": " Stran ni najdena"
   }
 }
