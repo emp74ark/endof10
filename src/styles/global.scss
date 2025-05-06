@@ -37,6 +37,10 @@ section {
   margin: 1.5rem 0;
 }
 
+.centered {
+  margin: 0 auto;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

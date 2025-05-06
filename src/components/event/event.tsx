@@ -4,6 +4,7 @@ import { apiService } from '@/services/apiService';
 import Link from 'next/link';
 import { Icon } from '@/components/icons';
 import { getTranslations } from 'next-intl/server';
+import { languagesData } from '@/components/languages';
 
 type EventProps = {
   event: IEvent;
@@ -23,7 +24,9 @@ export async function Event({ event }: EventProps) {
         <li>
           <Icon iconName="translate" size="1.3rem" />
           <span>
-            {t('language')}: {event.inLanguage}
+            {t('language')}:{' '}
+            {languagesData.find((l) => l.code === event.inLanguage)?.name ||
+              event.inLanguage}
           </span>
         </li>
         <li>

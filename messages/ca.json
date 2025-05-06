@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "El suport per a Windows 10 finalitza el 14 d’octubre de 2025.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft vol que compreu un ordinador nou.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Però, i si poguessis tornar a fer -ne el actual i segur?",
+    "ifYouBoughtYourComputerAfter2010": "Si heu comprat el vostre ordinador després del 2010, és probable que no hi hagi cap motiu per llançar -lo. Només cal instal·lar un sistema operatiu Linux actualitzat, podeu seguir utilitzant-lo durant els propers anys.",
+    "installingAnOperatingSystemMaySoundDifficult": "Instal·lar un sistema operatiu pot semblar difícil, però no cal fer -ho sol. Amb sort, hi ha gent a la vostra zona preparada per ajudar -vos.",
+    "findSomeoneToHelpYou": "Trobeu algú que us ajudi →",
+    "installLinuxYourself": "Instal·leu Linux tu mateix →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Voleu ajudar els altres a mantenir el seu ordinador després de Windows 10?",
+    "signUpAsRepairCollective": "Registra't com a col·lectiu de reparació →",
+    "5Reasons": "5 raons",
+    "toUpgradeYourOldComputerToLinux": "Per actualitzar el vostre ordinador antic a Linux",
+    "itsWayCheaper": "És més barat",
+    "aNewLaptopCostsALotOfMoney": "Un portàtil nou costa molts diners. Les cafeteries de reparació sovint us ajudaran de forma gratuïta. Les actualitzacions de programari també són gratuïtes, per sempre. Per descomptat, podeu mostrar el vostre suport per a les dues donacions.",
+    "noAdsNoSpying": "Sense anuncis, sense espionatge",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windows inclou molts anuncis i programes espia avui dia, alentint l’ordinador i augmentant la factura d’energia.",
+    "goodForThePlanet": "Bo per al planeta",
+    "productionOfAComputerAccountsFor75": "La producció d’un ordinador representa el 75+% de les emissions de carboni durant el seu cicle de vida. Mantenir un dispositiu de funcionament més llarg és una forma molt eficaç de reduir les emissions.",
+    "communitySupport": "Suport a la comunitat",
+    "ifYouHaveAnyIssuesWithYourCompute": "Si teniu problemes amb el vostre ordinador, hi ha per a vosaltres el cafè de reparació local i la botiga d’ordinadors independents. També podeu trobar suport comunitari als fòrums en línia.",
+    "userControl": "Control dels usuaris",
+    "youAreInControlOfTheSoftware": "Controleu el programari, no les empreses. Utilitzeu el vostre ordinador com vulgueu, durant el temps que vulgueu.",
+    "convinced": "Convençut?",
+    "thenFindYourClosestRepairCafe": "A continuació, cerqueu el vostre cafè de reparació més propera o una botiga d’ordinadors independent i gaudiu del vostre ordinador antic i antic!",
+    "repairYourOldComputer": "Repareu el vostre ordinador antic →"
+  },
+  "install": {
+    "diyInstallGuide": "Guia d’instal·lació de bricolatge",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Recomanem obtenir suport presencial per a la millor experiència.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Si creieu que teniu prou valor per fer -ho vosaltres mateixos, aquí teniu una guia general amb els tres passos necessaris per instal·lar Linux. Un cop hàgiu escollit una distribució, el seu lloc web tindrà guies més detallades que podeu seguir.",
+    "doBackups": "Feu còpies de seguretat!",
+    "beforeYouStart": "Abans de començar, assegureu -vos de fer una còpia de seguretat de dades importants de l’ordinador que estigueu a punt de reinstal·lar -vos.",
+    "downloadANewOs": "Descarregueu un nou sistema operatiu",
+    "downloadTheOperatingSystem": "Descarregueu el sistema operatiu que voleu instal·lar. Cerqueu distribucions de Linux per a principiants per obtenir alguns suggeriments.",
+    "flashToAUsbKey": "Flash a una tecla USB",
+    "flashTheOperatingSystemToAUsbStick": "Flash del sistema operatiu a un pal USB mitjançant una eina estàndard, com Rufus. Això sobreescriureà totes les dades del pal USB, així que assegureu -vos de fer una còpia de seguretat dels fitxers que vulgueu conservar.",
+    "getRufus": "Obteniu Rufus →",
+    "bootAndInstallOnYourComputer": "Arrenqueu i instal·leu al vostre ordinador",
+    "bootYourComputerFromYourUsbStick": "Arribar a l’ordinador des del vostre pal USB. Haureu de conèixer prèviament la combinació correcta del teclat. En aquest moment, sobreescriviu totes les dades de l’ordinador, de manera que tingueu una còpia de seguretat dels fitxers que vulgueu conservar. Seguiu les instruccions i vilà! Benvingut al vostre nou ordinador antic!"
+  },
+  "event": {
+    "language": "Llengua",
+    "from": "Des de",
+    "to": "a",
+    "website": "Lloc web"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "Final de 10 contingut del lloc web",
+    "isLicensedUnder": "té llicència sota",
+    "thanksToKdeForSupportingTheProject": "Gràcies a KDE per donar suport al projecte allotjant el lloc web i proporcionant la infraestructura. Podeu contactar amb el",
+    "publicMailingList": "(llista de correu electrònic) o veure el",
+    "privacyPolicy": "Política de privadesa",
+    "and": "i",
+    "legalNotices": "Avisos legals",
+    "forMoreInformation": "Per obtenir més informació."
+  },
+  "search": {
+    "search": "Buscar"
+  },
+  "languages": {
+    "languages": "Idiomes"
+  },
+  "nav": {
+    "places": "Llocs",
+    "events": "Esdeveniments",
+    "diyInstall": "Instal·lació de bricolatge",
+    "team": "Equip",
+    "addAPlaceOrEvent": "Afegiu un lloc o un esdeveniment",
+    "contribute": "Contribuir",
+    "websiteSource": "Font del lloc web"
+  },
+  "contribute": {
+    "contribute": "Contribuir",
+    "whenCanIPublish": "Quan puc publicar la nostra cafeteria de reparació o una botiga d’ordinadors independents a endof10.org?",
+    "ifYouOfferLinuxHelp": "Si oferiu ajuda de Linux, podeu afegir la vostra ubicació ara mateix.",
+    "aDescriptionOfTheInformationWeNeedFor": "Una descripció de la informació que necessitem",
+    "places": "llocs",
+    "andFor": "i per",
+    "events": "esdeveniments",
+    "canBeFoundAtTheGitRepository": "Es pot trobar al ReadMe del dipòsit Git. Envieu la informació per correu electrònic a endof10 [a] llistes.Posteo.de. Si podeu, ajudeu -nos proporcionant aquesta informació en format JSON.",
+    "ifYouHaveTheTechnicalKnow": "Si teniu el coneixement tècnic, també podeu fer un",
+    "mergeRequest": "Missar la sol·licitud",
+    "yourselfAtTheEndOf10": "Al final de 10 dipòsits del lloc web.",
+    "howCanIGetInvolved": "Com puc implicar -me amb la campanya?",
+    "thereAreManyWays": "Hi ha moltes maneres d’implicar -se! Poseu -vos en contacte amb nosaltres perquè puguem coordinar els vostres esforços amb el nostre.",
+    "putRepairCafes": "Poseu en contacte les cafeteries i les botigues informàtiques independents que ofereixen suport a Linux",
+    "organizeAnInstallationEvent": "Organitzeu un esdeveniment d’instal·lació i feu -nos -ho saber",
+    "designMaterials": "Materials de disseny per a usuaris nous com ara guies, flyers promocionals, etc.",
+    "distributeMaterials": "Distribuïu materials en cafeteries, botigues, universitats, escoles de la vostra zona",
+    "boostTheCampaign": "Potenciar la presència en línia de la campanya compartint les nostres publicacions de xarxes socials",
+    "translateTheWebsite": "Traduïu el lloc web (més a continuació), materials de campanya, etc.",
+    "volunteerWithFoss": "Voluntari amb les comunitats FOSS que participen en la campanya (millora de la documentació, depuració de programari, disseny)",
+    "yourIdeas": "Les teves idees",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Quines plataformes de comunicació utilitzen el final de 10 campanyes?",
+    "writeUsAtOneOfThesePublicChannels": "Escriviu -nos en un d’aquests canals públics, presenteu -vos i feu -nos saber com voldríeu implicar -vos:",
+    "mailingList": "Llista de correu",
+    "isTheCampaignActiveOnSocialMedia": "La campanya està activa a les xarxes socials?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Estem al Fediverse! Seguiu el nostre compte de Mastodon i augmenteu les nostres publicacions",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Com puc ajudar amb la traducció del lloc web endof10.org?",
+    "theWebsiteIsHostedByKde": "El lloc web està allotjat per KDE i segueix el flux de treball de traducció utilitzat per a tots els llocs web de KDE.",
+    "findYourLanguageTeam": "Trobeu el vostre equip d’idiomes",
+    "learnAboutTheProcess": "Obteniu informació sobre el procés",
+    "doYouAlreadyHaveAFlyer": "Ja teniu un volant/pòster que publiqueu el final de 10 campanya?",
+    "youCanFindALeafletInVariousLanguagesHere": "Podeu trobar un fullet en diversos idiomes aquí",
+    "weAreWorkingOnPosters": "Estem treballant en pòsters. Torneu a comprovar aquí aviat.",
+    "favoriteDistro": "Per què no es promociona [Inserir Distro favorit] al lloc web?",
+    "distroAgnostic": "El final de 10 llocs web i la divulgació són intencionadament distro agnòstics. L’objectiu és parlar com una gran família Foss. Volem que la campanya i les activitats representin totes les nostres comunitats.",
+    "doesDistroAgnosticMean": "Distro-agnòstic significa que les comunitats de Foss no poden promoure la seva pròpia obra?",
+    "IndividualFossCommunities": "Les comunitats de FOSS individuals són benvingudes a promoure el seu propi treball en el context de la campanya, amb dues advertències: (i) Ha de tenir clar que parleu per la vostra comunitat i no per la campanya i (ii) no heu de parlar negativament sobre el treball d’altres comunitats.",
+    "forExample": "Per exemple, una de les activitats planificades és una campanya \"Llistes de 10\" a les xarxes socials amb el hashtag #endof10. En aquest context:",
+    "theOfficialEndOf10SocialMedia": "El final oficial de 10 del compte de mitjans socials es manté el més neutre possible (per exemple, '10 raons per canviar a Linux ') i no promou cap distro específic.",
+    "yourCommunity": "La vostra comunitat realitza la divulgació a les xarxes socials amb un \"10 motius per canviar a [el vostre projecte]\" amb el hashtag #endof10. A la llista de raons per les quals promocioneu el vostre propi treball. Tanmateix, seria inacceptable parlar negativament sobre qualsevol altra feina de la comunitat FOSS."
+  },
+  "events": {
+    "upcomingEvents": "Propers esdeveniments",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Aquí teniu una llista d’esdeveniments on podeu obtenir ajuda amb Linux. També podeu buscar",
+    "places": "llocs",
+    "thatProvideHelpMore": "que proporcionen ajuda més",
+    "thatProvideHelpMoreRegularly": "que proporcionen ajuda més regularment."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "On puc trobar el suport de Linux?",
+    "hereIsAListOfRepairCafes": "A continuació, es mostra una llista de cafeteries de reparació, botigues independents, organitzacions, grups i col·lectius on podeu obtenir ajuda amb Linux de manera regular. Doneu una ullada als esdeveniments."
+  },
+  "team": {
+    "teamBehindEndOf10": "Equip al darrere de 10",
+    "thisCampaign": "Aquesta campanya ha estat possible mitjançant les aportacions entusiastes de les persones següents (enumerades per ordre alfabètic per cognom):"
+  }
+}

@@ -1,12 +1,14 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import clsx from 'clsx';
 
 type ButtonLinkProps = {
   label: string;
   url: string;
   size: 'small' | 'medium' | 'large';
   openInNewTab?: boolean;
+  customClass?: string;
 };
 
 export function ButtonLink({
@@ -14,6 +16,7 @@ export function ButtonLink({
   url,
   size,
   openInNewTab,
+  customClass,
 }: ButtonLinkProps) {
   const router = useRouter();
 
@@ -26,7 +29,10 @@ export function ButtonLink({
   };
 
   return (
-    <button onClick={clickHandler} className={`button__${size}`}>
+    <button
+      onClick={clickHandler}
+      className={clsx(`button__${size}`, customClass)}
+    >
       {label}
     </button>
   );

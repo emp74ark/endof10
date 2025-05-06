@@ -26,13 +26,12 @@ export function Welcome() {
         <p className={clsx('p4', 'txt__center')}>
           {t('installingAnOperatingSystemMaySoundDifficult')}
         </p>
-        <p className="txt__center">
-          <ButtonLink
-            label={t('findSomeoneToHelpYou')}
-            url="/places"
-            size="large"
-          />
-        </p>
+        <ButtonLink
+          label={t('findSomeoneToHelpYou')}
+          url="/places"
+          size="large"
+          customClass='centered'
+        />
         <p className={clsx('p4', 'txt__center')}>
           <Link href="/install">{t('installLinuxYourself')}</Link>
         </p>
@@ -84,13 +83,12 @@ export function Welcome() {
         <p className={clsx('p4', 'txt__center')}>
           {t('thenFindYourClosestRepairCafe')}
         </p>
-        <p className="txt__center">
-          <ButtonLink
-            label={t("repairYourOldComputer")}
-            url="/places"
-            size="medium"
-          />
-        </p>
+        <ButtonLink
+          label={t("repairYourOldComputer")}
+          url="/places"
+          size="medium"
+          customClass='centered'
+        />
       </section>
     </main>
   );

@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Tuki Windows 10: lle päättyy 14. lokakuuta 2025.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft haluaa sinun ostavan uuden tietokoneen.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Mutta entä jos voisit tehdä nykyisestä nopeasta ja turvallisesta?",
+    "ifYouBoughtYourComputerAfter2010": "Jos ostit tietokoneesi vuoden 2010 jälkeen, ei todennäköisesti ole syytä heittää sitä ulos. Asentamalla vain ajantasainen Linux-käyttöjärjestelmä, voit jatkaa sen käyttöä tulevina vuosina.",
+    "installingAnOperatingSystemMaySoundDifficult": "Käyttöjärjestelmän asentaminen voi kuulostaa vaikealta, mutta sinun ei tarvitse tehdä sitä yksin. Onneksi alueellasi on ihmisiä, jotka ovat valmiita auttamaan!",
+    "findSomeoneToHelpYou": "Etsi joku auttamaan sinua →",
+    "installLinuxYourself": "Asenna Linux itse →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Haluatko auttaa muita pitämään heidän tietokoneensa hengissä Windows 10: n jälkeen?",
+    "signUpAsRepairCollective": "Rekisteröidy korjauskollektiivi →",
+    "5Reasons": "Viisi syytä",
+    "toUpgradeYourOldComputerToLinux": "Päivittää vanha tietokone Linuxiin",
+    "itsWayCheaper": "Se on waaaay halvempaa",
+    "aNewLaptopCostsALotOfMoney": "Uusi kannettava tietokone maksaa paljon rahaa. Korjauskahvilat auttavat usein ilmaiseksi. Ohjelmistopäivitykset ovat myös ilmaisia, ikuisesti. Voit tietysti näyttää tukenne molemmille lahjoituksilla!",
+    "noAdsNoSpying": "Ei mainoksia, ei vakoilua",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windowsin mukana tulee nykyään paljon mainoksia ja vakoiluohjelmia, hidastaen tietokonetta ja lisäämällä energialaskuasi.",
+    "goodForThePlanet": "Hyvä planeetalle",
+    "productionOfAComputerAccountsFor75": "Tietokoneen tuotanto on 75+% hiilidioksidipäästöistä sen elinkaaren aikana. Toimivan laitteen pitäminen pidempään on erittäin tehokas tapa vähentää päästöjä.",
+    "communitySupport": "Yhteisötuki",
+    "ifYouHaveAnyIssuesWithYourCompute": "Jos sinulla on ongelmia tietokoneesi kanssa, paikallinen korjauskahvila ja riippumaton tietokonekauppa ovat sinua varten. Löydät myös yhteisötukea online -foorumeilta.",
+    "userControl": "Käyttäjän hallinta",
+    "youAreInControlOfTheSoftware": "Hallitset ohjelmistoa, ei yrityksiä. Käytä tietokonetta haluamallasi tavalla, niin kauan kuin haluat.",
+    "convinced": "Vakuuttunut?",
+    "thenFindYourClosestRepairCafe": "Löydä sitten lähin korjauskahvila tai riippumaton tietokonekauppa ja nauti upouudesta, vanhasta tietokoneesta!",
+    "repairYourOldComputer": "Korjaa vanha tietokone →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY -asennusopas",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Suosittelemme hankkimaan henkilökohtaista tukea parhaalle kokemukselle.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Jos sinusta tuntuu, että olet teknisesti tarpeeksi perehtynyt tekemään sen itse, tässä on yleinen opas, jolla on kolme vaihetta, joita tarvitaan Linuxin asentamiseen. Kun olet valinnut jakelun, heidän verkkosivustollaan on yksityiskohtaisempia oppaita, joita voit seurata.",
+    "doBackups": "Tee varmuuskopioita!",
+    "beforeYouStart": "Ennen kuin aloitat, varmuuskopioida kaikki tärkeät tiedot tietokoneelta, jonka aiot asentaa uudelleen!",
+    "downloadANewOs": "Lataa uusi käyttöjärjestelmä",
+    "downloadTheOperatingSystem": "Lataa asennettava käyttöjärjestelmä. Etsi Linux -jakelu aloittelijoille saadaksesi joitain ehdotuksia.",
+    "flashToAUsbKey": "Salama USB -avaimeen",
+    "flashTheOperatingSystemToAUsbStick": "Salaa käyttöjärjestelmä USB -sauvaksi käyttämällä vakiotyökalua, kuten Rufus. Tämä korvaa kaikki USB -tikun tiedot, joten varmuuskopioida haluamasi tiedostot.",
+    "getRufus": "Hanki Rufus →",
+    "bootAndInstallOnYourComputer": "Käynnistä ja asenna tietokoneellesi",
+    "bootYourComputerFromYourUsbStick": "Käynnistä tietokone USB -tikasta. Sinun on tiedettävä oikea näppäimistöyhdistelmä etukäteen. Tässä vaiheessa korvaa kaikki tietokoneella olevat tiedot, joten pidä varmuuskopiointi tiedostoista, joita haluat pitää. Seuraa ohjeita ja voilà! Tervetuloa uuteen, vanhaan tietokoneeseen!"
+  },
+  "event": {
+    "language": "Kieli",
+    "from": "-Sta",
+    "to": "-lla",
+    "website": "Verkkosivusto"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "10 verkkosivuston sisällön loppu",
+    "isLicensedUnder": "on lisensoitu",
+    "thanksToKdeForSupportingTheProject": "Kiitos KDE: lle projektin tukemisesta isännöimällä verkkosivustoa ja tarjoamalla infrastruktuurin. Voit ottaa yhteyttä",
+    "publicMailingList": "(julkisen postituslista) tai katso",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "and": "ja",
+    "legalNotices": "Lailliset ilmoitukset",
+    "forMoreInformation": "Lisätietoja."
+  },
+  "search": {
+    "search": "Haku"
+  },
+  "languages": {
+    "languages": "Kielet"
+  },
+  "nav": {
+    "places": "Paikat",
+    "events": "Tapahtumat",
+    "diyInstall": "DIY -asennus",
+    "team": "Joukkue",
+    "addAPlaceOrEvent": "Lisää paikka tai tapahtuma",
+    "contribute": "Osallistua",
+    "websiteSource": "Verkkosivustolähde"
+  },
+  "contribute": {
+    "contribute": "Osallistua",
+    "whenCanIPublish": "Milloin voin julkaista korjauskahvilamme tai riippumatonta tietokonekauppaa osoitteessa endof10.org?",
+    "ifYouOfferLinuxHelp": "Jos tarjoat Linux -apua, voit lisätä sijaintisi juuri nyt!",
+    "aDescriptionOfTheInformationWeNeedFor": "Kuvaus tarvitsemastamme tiedoista",
+    "places": "paikat",
+    "andFor": "ja",
+    "events": "tapahtumat",
+    "canBeFoundAtTheGitRepository": "löytyy Git -arkiston Readmesta. Lähetä tiedot sähköpostitse osoitteeseen endof10 [at] lista.posteo.de. Jos mahdollista, auta meitä tarjoamalla nämä tiedot JSON -muodossa.",
+    "ifYouHaveTheTechnicalKnow": "Jos sinulla on tekninen tietotaito, voit myös tehdä a",
+    "mergeRequest": "Yhdistämispyyntö",
+    "yourselfAtTheEndOf10": "Itse 10 verkkosivuston arkiston lopussa.",
+    "howCanIGetInvolved": "Kuinka voin olla mukana kampanjassa?",
+    "thereAreManyWays": "Osallistumiseen on monia tapoja! Ota yhteyttä, jotta voimme koordinoida ponnistelujasi meidän kanssa.",
+    "putRepairCafes": "Laita korjauskahvilat ja riippumattomat tietokonekaupat, jotka tarjoavat Linux -tukea meihin",
+    "organizeAnInstallationEvent": "Järjestä asennustapahtuma ja kerro meille siitä",
+    "designMaterials": "Suunnittelumateriaalit uusille käyttäjille, kuten oppaat, mainoslehtiset jne.",
+    "distributeMaterials": "Levitä materiaaleja kahviloissa, kaupoissa, yliopistoissa, alueellasi kouluissa",
+    "boostTheCampaign": "Lisää kampanjan online -läsnäoloa jakamalla sosiaalisen median viestejämme",
+    "translateTheWebsite": "Käännä verkkosivusto (lisää alla), kampanjamateriaaleja jne.",
+    "volunteerWithFoss": "Vapaaehtoinen kampanjaan osallistuvien foss -yhteisöjen kanssa (dokumentoinnin parantaminen, ohjelmistojen virheenkorjaus, suunnittelu)",
+    "yourIdeas": "Ideasi",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Mitkä viestintäalustat 10 kampanjan käytön päättyminen?",
+    "writeUsAtOneOfThesePublicChannels": "Kirjoita meille yhdelle näistä julkisista kanavista, esittele itsesi ja kerro meille, kuinka haluat osallistua:",
+    "mailingList": "Postituslista",
+    "isTheCampaignActiveOnSocialMedia": "Onko kampanja aktiivinen sosiaalisessa mediassa?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Olemme Fediversessä! Seuraa Mastodon -tiliämme ja lisää viestejämme",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Kuinka voin auttaa endof10.org -verkkosivuston käännöksessä?",
+    "theWebsiteIsHostedByKde": "Verkkosivuston isännöi KDE, ja se seuraa käännöksen työnkulkua, jota käytetään kaikilla KDE: n verkkosivustoilla.",
+    "findYourLanguageTeam": "Löydä kielitiimisi",
+    "learnAboutTheProcess": "Oppia prosessista",
+    "doYouAlreadyHaveAFlyer": "Onko sinulla jo lentolehtinen/juliste, joka mainostaa 10 kampanjan lopussa?",
+    "youCanFindALeafletInVariousLanguagesHere": "Löydät esitteen eri kielillä täältä",
+    "weAreWorkingOnPosters": "Työskentelemme julisteiden parissa. Tarkista täältä pian uudelleen.",
+    "favoriteDistro": "Miksi [lisää suosikki distro] ei mainosteta verkkosivustolla?",
+    "distroAgnostic": "Kymmenen verkkosivuston ja tiedotuksen loppuminen ovat tarkoituksella distro-agnostisia. Tavoitteena on puhua suurena Foss -perheenä. Haluamme kampanjan ja toiminnan edustavan kaikkia yhteisöjämme.",
+    "doesDistroAgnosticMean": "Eikö distro-agnostinen keskimääräinen Foss-yhteisöt eivät edistä omaa työtä?",
+    "IndividualFossCommunities": "Yksittäiset Foss -yhteisöt ovat tervetulleita edistämään omaa työtä kampanjan yhteydessä kahdella varoituksella: (i) On oltava selvää",
+    "forExample": "Esimerkiksi yksi suunnitellusta toiminnasta on \"luettelo 10\" sosiaalisen median kampanjasta hashtagin #endof10: n kanssa. Tässä yhteydessä:",
+    "theOfficialEndOf10SocialMedia": "Kymmenen sosiaalisen median tilin virallinen loppu on mahdollisimman neutraali (esim. '10 syytä siirtyä Linuxiin ') eikä edistä mitään erityistä distroa.",
+    "yourCommunity": "Yhteisösi tiedottaa sosiaalisessa mediassa \"10 syytä siirtyä [projektisi]\" #endof10 -hashtagilla. Luettelossa syistä, jotka mainostat omaa työtäsi. Ei kuitenkaan voida hyväksyä puhua negatiivisesti minkä tahansa muun FOSS -yhteisön työstä."
+  },
+  "events": {
+    "upcomingEvents": "Tulevat tapahtumat",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Tässä on luettelo tapahtumista, joista saat apua Linuxissa. Voit myös etsiä",
+    "places": "paikat",
+    "thatProvideHelpMore": "jotka tarjoavat apua enemmän",
+    "thatProvideHelpMoreRegularly": "jotka tarjoavat apua säännöllisemmin."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Mistä löydän Linux -tuen?",
+    "hereIsAListOfRepairCafes": "Tässä on luettelo korjauskahviloista, riippumattomista kaupoista, organisaatioista, ryhmistä ja kollektiivista, joissa voit saada apua Linuxissa säännöllisesti. Katso myös tapahtumia."
+  },
+  "team": {
+    "teamBehindEndOf10": "Joukkue 10: n lopun takana",
+    "thisCampaign": "Tämä kampanja on mahdollinen seuraavien ihmisten innostuneella panoksella (lueteltu aakkosjärjestyksessä sukunimen mukaan):"
+  }
+}

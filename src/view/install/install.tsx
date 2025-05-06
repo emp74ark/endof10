@@ -16,11 +16,11 @@ export function Install() {
         {t('ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself')}
       </p>
 
-      <div className={clsx(styles.install__warning, 'p5')}>
-        <span>
+      <div className={clsx(styles.install__warning, 'p5', 'txt__center')}>
+        <p>
           ⚠️ <strong>{t('doBackups')}</strong> ⚠️
-        </span>
-        <span>{t('beforeYouStart')}</span>
+        </p>
+        <p>{t('beforeYouStart')}</p>
       </div>
       <ol>
         <li>
@@ -30,12 +30,13 @@ export function Install() {
         <li>
           <dt>{t('flashToAUsbKey')}</dt>
           <dd>
-            {t('flashTheOperatingSystemToAUsbStick')}
+            <p>{t('flashTheOperatingSystemToAUsbStick')}</p>
             <ButtonLink
               label={t('getRufus')}
               url="https://rufus.ie/en/"
               size="medium"
               openInNewTab={true}
+              customClass="centered"
             />
           </dd>
         </li>
