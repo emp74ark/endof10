@@ -13,7 +13,7 @@ interface NavProps {
 }
 
 export function Nav({ variant }: NavProps) {
-  const t = useTranslations('nav')
+  const t = useTranslations('nav');
   return (
     <nav
       className={clsx(

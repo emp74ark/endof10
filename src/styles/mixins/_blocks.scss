@@ -9,13 +9,9 @@
 @mixin card($borderRadius) {
   @if $borderRadius == 'small' {
     border-radius: 1rem;
-  }
-
-  @else if $borderRadius == 'large' {
+  } @else if $borderRadius == 'large' {
     border-radius: 3rem;
-  }
-
-  @else {
+  } @else {
     border-radius: 1.5rem;
   }
 

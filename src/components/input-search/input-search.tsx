@@ -42,7 +42,7 @@ export function InputSearch({ target }: InputSearchProps) {
       <input
         className={styles.input__text}
         type="search"
-        placeholder={t("search")}
+        placeholder={t('search')}
         value={exp}
         onChange={handleInputChange}
         onKeyUp={handleEnter}

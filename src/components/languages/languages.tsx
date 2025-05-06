@@ -11,7 +11,7 @@ export async function Languages() {
       <h5>{t('languages')}:</h5>
       <div className={styles.languages__list}>
         {locales.map((locale) => (
-          <Link className='p5' href={`/${locale}`} key={locale}>
+          <Link className="p5" href={`/${locale}`} key={locale}>
             {languagesData.find((l) => l.code === locale)?.name || locale}
           </Link>
         ))}

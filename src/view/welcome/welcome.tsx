@@ -30,7 +30,7 @@ export function Welcome() {
           label={t('findSomeoneToHelpYou')}
           url="/places"
           size="large"
-          customClass='centered'
+          customClass="centered"
         />
         <p className={clsx('p4', 'txt__center')}>
           <Link href="/install">{t('installLinuxYourself')}</Link>
@@ -84,10 +84,10 @@ export function Welcome() {
           {t('thenFindYourClosestRepairCafe')}
         </p>
         <ButtonLink
-          label={t("repairYourOldComputer")}
+          label={t('repairYourOldComputer')}
           url="/places"
           size="medium"
-          customClass='centered'
+          customClass="centered"
         />
       </section>
     </main>

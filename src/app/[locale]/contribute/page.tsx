@@ -108,9 +108,7 @@ export default function ContributePage() {
       </section>
 
       <section>
-        <h3>
-          {t('doYouAlreadyHaveAFlyer')}
-        </h3>
+        <h3>{t('doYouAlreadyHaveAFlyer')}</h3>
 
         <p className="p4">
           {t('youCanFindALeafletInVariousLanguagesHere')}:{' '}

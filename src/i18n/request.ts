@@ -1,10 +1,10 @@
 // https://next-intl.dev/docs/getting-started/app-router/with-i18n-routing#i18n-request
 
-import {getRequestConfig} from 'next-intl/server';
-import {hasLocale} from 'next-intl';
-import {routing} from './routing';
+import { getRequestConfig } from 'next-intl/server';
+import { hasLocale } from 'next-intl';
+import { routing } from './routing';
 
-export default getRequestConfig(async ({requestLocale}) => {
+export default getRequestConfig(async ({ requestLocale }) => {
   // Typically corresponds to the `[locale]` segment
   const requested = await requestLocale;
   const locale = hasLocale(routing.locales, requested)
@@ -13,6 +13,6 @@ export default getRequestConfig(async ({requestLocale}) => {
 
   return {
     locale,
-    messages: (await import(`../../messages/${locale}.json`)).default
+    messages: (await import(`../../messages/${locale}.json`)).default,
   };
 });
