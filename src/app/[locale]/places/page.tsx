@@ -2,6 +2,8 @@ import { apiService } from '@/services/apiService';
 import { PlacesList } from '@/components/place';
 import { InputSearch } from '@/components/input-search';
 import { getTranslations } from 'next-intl/server';
+import { Suspense } from 'react';
+import { Spinner } from '@/components/spinner';
 
 type PlacesPageProps = {
   searchParams: Promise<Record<string, string>>;
@@ -17,7 +19,9 @@ export default async function PlacesPage({ searchParams }: PlacesPageProps) {
       <h2>{t('whereCanIFindLinuxSupport')}</h2>
       <p className="p4">{t('hereIsAListOfRepairCafes')}</p>
       <InputSearch target="places" />
-      <PlacesList places={places} />
+      <Suspense key={search} fallback={<Spinner/>}>
+        <PlacesList places={places} />
+      </Suspense>
     </main>
   );
 }
