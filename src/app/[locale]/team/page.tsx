@@ -1,11 +1,11 @@
+import { useTranslations } from 'next-intl';
+
 export default function TeamPage() {
+  const t = useTranslations('team');
   return (
     <main>
-      <h2>Team behind End of 10</h2>
-      <p className="p4">
-        This campaign has been made possible by the enthusiastic contributions
-        of the following people (listed in alphabetical order by last name):
-      </p>
+      <h2>{t('teamBehindEndOf10')}</h2>
+      <p className="p4">{t('thisCampaign')}</p>
 
       <ul>
         <li>Tobias Bernard (GNOME Design Team)</li>

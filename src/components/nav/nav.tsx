@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import styles from './nav.module.scss';
 import clsx from 'clsx';
+import { useTranslations } from 'next-intl';
 
 export enum NavVariant {
   Header,
@@ -12,6 +13,7 @@ interface NavProps {
 }
 
 export function Nav({ variant }: NavProps) {
+  const t = useTranslations('nav')
   return (
     <nav
       className={clsx(
@@ -22,31 +24,31 @@ export function Nav({ variant }: NavProps) {
     >
       <ul>
         <li>
-          <Link href="/places">Places</Link>
+          <Link href="/places">{t('places')}</Link>
         </li>
         <li>
-          <Link href="/events">Events</Link>
+          <Link href="/events">{t('events')}</Link>
         </li>
         <li>
-          <Link href="/install">DIY Install</Link>
+          <Link href="/install">{t('diyInstall')}</Link>
         </li>
         {variant === NavVariant.Footer && (
           <>
             <li>
-              <Link href="/team">Team</Link>
+              <Link href="/team">{t('team')}</Link>
             </li>
             <li>
-              <Link href="/contribute">Add a place or event</Link>
+              <Link href="/contribute">{t('addAPlaceOrEvent')}</Link>
             </li>
             <li>
-              <Link href="/contribute">Contribute</Link>
+              <Link href="/contribute">{t('contribute')}</Link>
             </li>
             <li>
               <Link
                 href="https://invent.kde.org/websites/endof10-org"
                 target="_blank"
               >
-                Website source
+                {t('websiteSource')}
               </Link>
             </li>
           </>

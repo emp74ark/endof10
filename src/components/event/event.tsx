@@ -3,6 +3,7 @@ import styles from './event.module.scss';
 import { apiService } from '@/services/apiService';
 import Link from 'next/link';
 import { Icon } from '@/components/icons';
+import { getTranslations } from 'next-intl/server';
 
 type EventProps = {
   event: IEvent;
@@ -10,6 +11,7 @@ type EventProps = {
 
 export async function Event({ event }: EventProps) {
   const country = await apiService.getCountryByCode(event.addressCountry);
+  const t = await getTranslations('event');
   return (
     <div className={styles.event}>
       <h3>
@@ -20,13 +22,15 @@ export async function Event({ event }: EventProps) {
       <ul>
         <li>
           <Icon iconName="translate" size="1.3rem" />
-          <span>Language: {event.inLanguage}</span>
+          <span>
+            {t('language')}: {event.inLanguage}
+          </span>
         </li>
         <li>
           <Icon iconName="clock-countdown" size="1.3rem" />
           <span>
-            From: {new Date(event.startDate).toLocaleString()}, to:{' '}
-            {new Date(event.endDate).toLocaleString()}
+            {t('from')}: {new Date(event.startDate).toLocaleString()}, {t('to')}
+            : {new Date(event.endDate).toLocaleString()}
           </span>
         </li>
         <li>
@@ -48,7 +52,7 @@ export async function Event({ event }: EventProps) {
         <li>
           <Icon iconName="link" size="1.3rem" />
           <a href={event.url} target="_blank">
-            Website
+            {t('website')}
           </a>
         </li>
         {event.telephone && (
@@ -73,8 +77,21 @@ export async function Event({ event }: EventProps) {
         )}
         {event.eventAttendanceMode && (
           <li>
-            <Icon iconName={event.eventAttendanceMode === 'https://schema.org/OnlineEventAttendanceMode' ? 'desktop' : 'couch'} size="1.3rem" />
-            <span>{event.eventAttendanceMode === 'https://schema.org/OnlineEventAttendanceMode' ? 'online' : 'offline'}</span>
+            <Icon
+              iconName={
+                event.eventAttendanceMode ===
+                'https://schema.org/OnlineEventAttendanceMode'
+                  ? 'desktop'
+                  : 'couch'
+              }
+              size="1.3rem"
+            />
+            <span>
+              {event.eventAttendanceMode ===
+              'https://schema.org/OnlineEventAttendanceMode'
+                ? 'online'
+                : 'offline'}
+            </span>
           </li>
         )}
       </ul>

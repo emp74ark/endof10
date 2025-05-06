@@ -4,12 +4,14 @@ import styles from './input-search.module.scss';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { useState } from 'react';
 import { Icon } from '@/components/icons';
+import { useTranslations } from 'next-intl';
 
 interface InputSearchProps {
   target: 'places' | 'events';
 }
 
 export function InputSearch({ target }: InputSearchProps) {
+  const t = useTranslations('search');
   const searchParams = useSearchParams();
   const router = useRouter();
   const [exp, setExp] = useState(searchParams.get('search') || '');
@@ -40,7 +42,7 @@ export function InputSearch({ target }: InputSearchProps) {
       <input
         className={styles.input__text}
         type="search"
-        placeholder="Search"
+        placeholder={t("search")}
         value={exp}
         onChange={handleInputChange}
         onKeyUp={handleEnter}

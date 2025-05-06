@@ -1,5 +1,6 @@
+import { useTranslations } from 'next-intl';
+
 export function Languages() {
-  return (
-    <p>Languages:</p>
-  );
+  const t = useTranslations('languages')
+  return <p>{t('languages')}:</p>;
 }

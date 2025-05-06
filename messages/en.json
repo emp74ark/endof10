@@ -24,5 +24,107 @@
     "convinced": "Convinced?",
     "thenFindYourClosestRepairCafe": "Then find your closest repair cafe or independent computer shop and enjoy your brand-new, old computer!",
     "repairYourOldComputer": "Repair your old computer →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY Install Guide",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "We recommend getting in-person support for the best experience.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "If you feel you're technically versed enough to do it yourself, here's a general guide with the three steps needed for installing Linux. Once you have picked a distribution, their website will have more detailed guides you can follow.",
+    "doBackups": "Do Backups!",
+    "beforeYouStart": " Before you start, make sure to back up any important data from the computer you're about to reinstall!",
+    "downloadANewOs": "Download a new OS",
+    "downloadTheOperatingSystem": "Download the operating system you want to install. Search for Linux distributions for beginners to get some suggestions.",
+    "flashToAUsbKey": "Flash to a USB key",
+    "flashTheOperatingSystemToAUsbStick": "Flash the operating system to a USB stick using a standard tool, such as Rufus. This will overwrite all data on the USB stick, so make sure to back up the files you want to keep.",
+    "getRufus": "Get Rufus →",
+    "bootAndInstallOnYourComputer": "Boot and install on your computer",
+    "bootYourComputerFromYourUsbStick": "Boot your computer from your USB stick. You will need to know the correct keyboard combination beforehand. At this point you will overwrite all data on the computer, so have a back up of the files you want to keep. Follow the instructions, and voilà! Welcome to your new, old computer!"
+  },
+  "event": {
+    "language": "Language",
+    "from": "From",
+    "to": "to",
+    "website": "Website"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "End of 10 website content",
+    "isLicensedUnder": "is licensed under",
+    "thanksToKdeForSupportingTheProject": "Thanks to KDE for supporting the project by hosting the website and providing the infrastructure. You can contact the",
+    "publicMailingList": "(public mailing list) or see the",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and",
+    "legalNotices": "Legal Notices",
+    "forMoreInformation": "for more information."
+  },
+  "search": {
+    "search": "Search"
+  },
+  "languages": {
+    "languages": "Languages"
+  },
+  "nav": {
+    "places": "Places",
+    "events": "Events",
+    "diyInstall": "DIY Install",
+    "team": "Team",
+    "addAPlaceOrEvent": "Add a place or event",
+    "contribute": "Contribute",
+    "websiteSource": "Website source"
+  },
+  "contribute": {
+    "contribute": "Contribute",
+    "whenCanIPublish": "When can I publish our repair café or independent computer shop at endof10.org?",
+    "ifYouOfferLinuxHelp": "If you offer Linux help, you can add your location right now!",
+    "aDescriptionOfTheInformationWeNeedFor": "A description of the information we need for",
+    "places": "places",
+    "andFor": "and for",
+    "events": "events",
+    "canBeFoundAtTheGitRepository": "can be found at the Git repository's README. Send the information by email to endof10[at]lists.posteo.de. If you can, help us out by providing that information in JSON format.",
+    "ifYouHaveTheTechnicalKnow": "If you have the technical know-how, you can also make a",
+    "mergeRequest": "Merge Request",
+    "yourselfAtTheEndOf10": "yourself at the End Of 10 website's repository.",
+    "howCanIGetInvolved": "How can I get involved with the campaign?",
+    "thereAreManyWays": "There are many ways to get involved! Contact us so we can coordinate your efforts with ours.",
+    "putRepairCafes": "Put repair cafes and independent computer shops offering Linux support in touch with us",
+    "organizeAnInstallationEvent": "Organize an installation event and let us know about it",
+    "designMaterials": "Design materials for new users such as guides, promotional flyers, etc.",
+    "distributeMaterials": "Distribute materials in cafes, shops, universities, schools in your area",
+    "boostTheCampaign": "Boost the campaign's online presence by sharing our social media posts",
+    "translateTheWebsite": "Translate the website (more below), campaign materials, etc.",
+    "volunteerWithFoss": "Volunteer with FOSS communities participating in the campaign (improving documentation, software debugging, design)",
+    "yourIdeas": "your ideas",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Which communication platforms does the End Of 10 campaign use?",
+    "writeUsAtOneOfThesePublicChannels": "Write us at one of these public channels, introduce yourself, and let us know how you'd like to get involved:",
+    "mailingList": "Mailing list",
+    "isTheCampaignActiveOnSocialMedia": "Is the campaign active on social media?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "We are on the Fediverse! Follow our Mastodon account and boost our posts",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "How can I help with the translation of the endof10.org website?",
+    "theWebsiteIsHostedByKde": "The website is hosted by KDE and follows the translation workflow used for all of KDE's websites.",
+    "findYourLanguageTeam": "Find your language team",
+    "learnAboutTheProcess": "Learn about the process",
+    "doYouAlreadyHaveAFlyer": "Do you already have a flyer/poster advertising the End Of 10 campaign?",
+    "youCanFindALeafletInVariousLanguagesHere": "You can find a leaflet in various languages here",
+    "weAreWorkingOnPosters": "We are working on posters. Check here again soon.",
+    "favoriteDistro": "Why isn't [INSERT FAVORITE DISTRO] promoted on the website?",
+    "distroAgnostic": "The End Of 10 website and outreach are intentionally distro-agnostic. The goal is to speak as a big FOSS family. We want the campaign and activities to represent all of our communities.",
+    "doesDistroAgnosticMean": "Does distro-agnostic mean FOSS communities cannot promote their own work?",
+    "IndividualFossCommunities": " Individual FOSS communities are welcome to promote their own work in the context of the campaign, with two caveats: (i) it must be clear you are speaking for your community and not the campaign, and (ii) you must not speak negatively about the work of other communities.",
+    "forExample": "For example, one of the planned activities is a \"Lists of 10\" social media campaign with the hashtag #EndOf10. In this context:",
+    "theOfficialEndOf10SocialMedia": "The official End Of 10 social media account remains as neutral as possible (e.g., '10 reasons to switch to Linux') and does not promote any specific distro.",
+    "yourCommunity": "Your community does outreach on social media with a \"10 reasons to switch to [YOUR PROJECT]\" with the #EndOf10 hashtag. In the list of reasons you promote your own work. However, it would be unacceptable to speak negatively about any other FOSS community's work."
+  },
+  "events": {
+    "upcomingEvents": "Upcoming Events",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Here is a list of events where you can get help with Linux. You can also look for",
+    "places": "places",
+    "thatProvideHelpMore": "that provide help more",
+    "thatProvideHelpMoreRegularly": "that provide help more regularly."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Where can I find Linux support?",
+    "hereIsAListOfRepairCafes": "Here is a list of repair cafes, independent shops, organizations, groups and collectives where you can get help with Linux on a regular basis. Also take a look at the events."
+  },
+  "team": {
+    "teamBehindEndOf10": "Team behind End of 10",
+    "thisCampaign": "This campaign has been made possible by the enthusiastic contributions of the following people (listed in alphabetical order by last name):"
   }
 }
