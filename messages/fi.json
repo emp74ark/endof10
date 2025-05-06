@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Joukkue 10: n lopun takana",
     "thisCampaign": "Tämä kampanja on mahdollinen seuraavien ihmisten innostuneella panoksella (lueteltu aakkosjärjestyksessä sukunimen mukaan):"
+  },
+  "404": {
+    "pageNotFound": "Sivua ei löytynyt"
   }
 }

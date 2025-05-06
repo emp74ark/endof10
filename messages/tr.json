@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "10'un sonunun arkasında takım",
     "thisCampaign": "Bu kampanya, aşağıdaki kişilerin coşkulu katkılarıyla mümkün olmuştur (soyadına göre alfabetik sırayla listelenmiştir):"
+  },
+  "404": {
+    "pageNotFound": "Sayfa bulunamadı"
   }
 }

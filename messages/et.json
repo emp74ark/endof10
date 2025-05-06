@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Meeskond 10 lõpu taga",
     "thisCampaign": "Selle kampaania on teinud võimalikuks järgmiste inimeste entusiastlik panus (loetletud tähestikulises järjekorras perekonnanime järgi):"
+  },
+  "404": {
+    "pageNotFound": "Lehte ei leitud"
   }
 }

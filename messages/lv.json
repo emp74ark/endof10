@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Komanda aiz 10 beigām",
     "thisCampaign": "Šo kampaņu ir padarījusi iespējama šo cilvēku aizrautīgais ieguldījums (uzskaitīts alfabēta secībā pēc uzvārda):"
+  },
+  "404": {
+    "pageNotFound": "Lappuse nav atrasta"
   }
 }

@@ -126,5 +126,8 @@
   "team": {
     "teamBehindEndOf10": "Team achter het einde van 10",
     "thisCampaign": "Deze campagne is mogelijk gemaakt door de enthousiaste bijdragen van de volgende mensen (vermeld in alfabetische volgorde bij achternaam):"
+  },
+  "404": {
+    "pageNotFound": "Pagina niet gevonden"
   }
 }
