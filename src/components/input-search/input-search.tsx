@@ -3,6 +3,7 @@
 import styles from './input-search.module.scss';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { useState } from 'react';
+import { Icon } from '@/components/icons';
 
 interface InputSearchProps {
   target: 'places' | 'events';
@@ -18,9 +19,7 @@ export function InputSearch({ target }: InputSearchProps) {
     setExp(value);
   }
 
-  function handleSearch(e: React.KeyboardEvent<HTMLInputElement>) {
-    if (e.key !== 'Enter') return;
-
+  function handleSearch() {
     const params = new URLSearchParams(searchParams);
     if (exp) {
       params.set('search', exp);
@@ -31,14 +30,27 @@ export function InputSearch({ target }: InputSearchProps) {
     }
   }
 
+  function handleEnter(e: React.KeyboardEvent<HTMLInputElement>) {
+    if (e.key !== 'Enter') return;
+    handleSearch();
+  }
+
   return (
-    <input
-      className={styles.input}
-      type="search"
-      placeholder="Search"
-      value={exp}
-      onChange={handleInputChange}
-      onKeyUp={handleSearch}
-    />
+    <div className={styles.input}>
+      <input
+        className={styles.input__text}
+        type="search"
+        placeholder="Search"
+        value={exp}
+        onChange={handleInputChange}
+        onKeyUp={handleEnter}
+      />
+      <Icon
+        iconName="magnifying-glass"
+        size="1.3rem"
+        onClick={handleSearch}
+        customClass={styles.input__button}
+      />
+    </div>
   );
 }

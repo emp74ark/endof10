@@ -1,4 +1,8 @@
 .input {
+  position: relative;
+}
+
+.input__text {
   width: 90%;
   display: block;
   margin: 0 auto;
@@ -18,4 +22,10 @@
   &::placeholder {
     color: var(--text-main);
   }
+}
+
+.input__button {
+  position: absolute;
+  right: 1.5rem;
+  top: 0.5rem;
 }
