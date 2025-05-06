@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { EventsList } from '@/components/event/events';
+import { EventsList } from '@/components/event';
 import { apiService } from '@/services/apiService';
 import { InputSearch } from '@/components/input-search';
 import { getTranslations } from 'next-intl/server';

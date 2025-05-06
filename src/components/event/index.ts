@@ -1,2 +1,2 @@
 export { Event } from './event';
-export { PlacesList } from './places';
+export { EventsList } from './events';
