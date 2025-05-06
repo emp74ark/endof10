@@ -3,15 +3,17 @@ import Link from 'next/link';
 import styles from './welcome.module.scss';
 import clsx from 'clsx';
 import { ButtonLink } from '@/components/button-link';
+import { useTranslations } from 'next-intl';
 
 export function Welcome() {
+  const t = useTranslations('welcome');
   return (
     <main className={styles.welcome}>
       <section className={styles.welcome__teaser}>
-        <p className="p1">Support for Windows 10 ends on October 14, 2025.</p>
-        <p className="p1">Microsoft wants you to buy a new computer.</p>
+        <p className="p1">{t('supportForWindows10EndsOnOctober14')}</p>
+        <p className="p1">{t('microsoftWantsYouToBuyANewComputer')}</p>
         <p className="p1">
-          But what if you could make your current one fast and secure again?
+          {t('butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain')}
         </p>
       </section>
       <section>
@@ -19,34 +21,29 @@ export function Welcome() {
       </section>
       <section>
         <p className={clsx('p4', 'txt__center')}>
-          If you bought your computer after 2010, there&apos;s most likely no
-          reason to throw it out. By just installing an up-to-date Linux
-          operating system you can keep using it for years to come.
+          {t('ifYouBoughtYourComputerAfter2010')}
         </p>
         <p className={clsx('p4', 'txt__center')}>
-          Installing an operating system may sound difficult, but you don&apos;t
-          have to do it alone. With any luck, there are people in your area
-          ready to help!
+          {t('installingAnOperatingSystemMaySoundDifficult')}
         </p>
         <p className="txt__center">
           <ButtonLink
-            label={'Find someone to help you \u2192'}
+            label={t('findSomeoneToHelpYou')}
             url="/places"
             size="large"
           />
         </p>
         <p className={clsx('p4', 'txt__center')}>
-          <Link href="/install"> Install Linux yourself &rarr;</Link>
+          <Link href="/install">{t('installLinuxYourself')}</Link>
         </p>
       </section>
       <section>
         <div className={styles.welcome__card}>
           <p className={clsx('p4', 'txt__center')}>
-            Would you like to help others keep their computer alive after
-            Windows 10?
+            {t('wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10')}
           </p>
           <ButtonLink
-            label={'Sign up as repair collective \u2192'}
+            label={t('signUpAsRepairCollective')}
             url="/contribute"
             size="medium"
           />
@@ -54,61 +51,42 @@ export function Welcome() {
       </section>
       <section>
         <h2>
-          <strong>5 Reasons</strong>
-          to upgrade your old computer to Linux
+          <strong>{t('5Reasons')}</strong>
+          {t('toUpgradeYourOldComputerToLinux')}
         </h2>
         <ol>
           <li>
             <dl>
-              <dt>It&apos;s waaaaay cheaper</dt>
-              <dd>
-                A new laptop costs a lot of money. Repair cafes will often help
-                you for free. Software updates are also free, forever. You can
-                of course show your support for both with donations!
-              </dd>
+              <dt>{t('itsWayCheaper')}</dt>
+              <dd>{t('aNewLaptopCostsALotOfMoney')}</dd>
             </dl>
           </li>
           <li>
-            <dt>No ads, no spying</dt>
-            <dd>
-              Windows comes with lots of ads and spyware nowadays, slowing down
-              your computer and increasing your energy bill.
-            </dd>
+            <dt>{t('noAdsNoSpying')}</dt>
+            <dd>{t('windowsComesWithLotsOfAdsAndSpywareNowadays')}</dd>
           </li>
           <li>
-            <dt>Good for the planet</dt>
-            <dd>
-              Production of a computer accounts for 75+% of carbon emissions
-              over its lifecycle. Keeping a functioning device longer is a
-              hugely effective way to reduce emissions.
-            </dd>
+            <dt>{t('goodForThePlanet')}</dt>
+            <dd>{t('productionOfAComputerAccountsFor75')}</dd>
           </li>
           <li>
-            <dt>Community support</dt>
-            <dd>
-              If you have any issues with your computer, the local repair cafe
-              and independent computer shop are there for you. You can find
-              community support in online forums, too.
-            </dd>
+            <dt>{t('communitySupport')}</dt>
+            <dd>{t('ifYouHaveAnyIssuesWithYourCompute')}</dd>
           </li>
           <li>
-            <dt>User control</dt>
-            <dd>
-              You are in control of the software, not companies. Use your
-              computer how you want, for as long as you want.
-            </dd>
+            <dt>{t('userControl')}</dt>
+            <dd>{t('youAreInControlOfTheSoftware')}</dd>
           </li>
         </ol>
       </section>
       <section>
-        <h2>Convinced?</h2>
+        <h2>{t('convinced')}</h2>
         <p className={clsx('p4', 'txt__center')}>
-          Then find your closest repair cafe or independent computer shop and
-          enjoy your brand-new, old computer!
+          {t('thenFindYourClosestRepairCafe')}
         </p>
         <p className="txt__center">
           <ButtonLink
-            label={'Repair your old computer \u2192'}
+            label={t("repairYourOldComputer")}
             url="/places"
             size="medium"
           />
