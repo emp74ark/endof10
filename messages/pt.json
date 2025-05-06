@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Suporte para o Windows 10 termina em 14 de outubro de 2025.",
+    "microsoftWantsYouToBuyANewComputer": "A Microsoft quer que você compre um novo computador.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Mas e se você pudesse tornar o seu atual rápido e seguro novamente?",
+    "ifYouBoughtYourComputerAfter2010": "Se você comprou seu computador depois de 2010, provavelmente não há motivo para jogá -lo fora. Ao instalar um sistema operacional Linux atualizado, você pode continuar usando-o nos próximos anos.",
+    "installingAnOperatingSystemMaySoundDifficult": "A instalação de um sistema operacional pode parecer difícil, mas você não precisa fazer isso sozinho. Com alguma sorte, há pessoas na sua área prontas para ajudar!",
+    "findSomeoneToHelpYou": "Encontre alguém para ajudá -lo →",
+    "installLinuxYourself": "Instale o Linux você mesmo →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Você gostaria de ajudar outras pessoas a manter o computador vivo após o Windows 10?",
+    "signUpAsRepairCollective": "Inscreva -se como Repair Collective →",
+    "5Reasons": "5 razões",
+    "toUpgradeYourOldComputerToLinux": "Para atualizar seu computador antigo para Linux",
+    "itsWayCheaper": "É mais barato",
+    "aNewLaptopCostsALotOfMoney": "Um novo laptop custa muito dinheiro. Os cafés de reparo geralmente o ajudam gratuitamente. As atualizações de software também são gratuitas, para sempre. É claro que você pode mostrar seu apoio para ambos com doações!",
+    "noAdsNoSpying": "Sem anúncios, sem espionagem",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Atualmente, o Windows vem com muitos anúncios e spyware, diminuindo a velocidade do seu computador e aumentando sua conta de energia.",
+    "goodForThePlanet": "Bom para o planeta",
+    "productionOfAComputerAccountsFor75": "A produção de um computador é responsável por 75% das emissões de carbono em seu ciclo de vida. Manter um dispositivo em funcionamento por mais tempo é uma maneira extremamente eficaz de reduzir as emissões.",
+    "communitySupport": "Apoio da comunidade",
+    "ifYouHaveAnyIssuesWithYourCompute": "Se você tiver algum problema com o seu computador, o café local e a loja de computadores independentes estão lá para você. Você também pode encontrar apoio da comunidade em fóruns on -line.",
+    "userControl": "Controle do usuário",
+    "youAreInControlOfTheSoftware": "Você está no controle do software, não das empresas. Use seu computador como deseja, pelo tempo que quiser.",
+    "convinced": "Convencido?",
+    "thenFindYourClosestRepairCafe": "Em seguida, encontre seu café de reparo mais próximo ou uma loja de computadores independente e aproveite seu computador antigo e novinho em folha!",
+    "repairYourOldComputer": "Repare seu computador antigo →"
+  },
+  "install": {
+    "diyInstallGuide": "Guia de instalação DIY",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Recomendamos obter apoio pessoal para a melhor experiência.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Se você acha que é tecnicamente versado o suficiente para fazê -lo, aqui está um guia geral com as três etapas necessárias para a instalação do Linux. Depois de escolher uma distribuição, o site deles terá guias mais detalhados que você pode seguir.",
+    "doBackups": "Faça backups!",
+    "beforeYouStart": "Antes de começar, certifique -se de fazer backup de dados importantes do computador que você está prestes a reinstalar!",
+    "downloadANewOs": "Baixe um novo sistema operacional",
+    "downloadTheOperatingSystem": "Faça o download do sistema operacional que você deseja instalar. Procure distribuições Linux para iniciantes para obter algumas sugestões.",
+    "flashToAUsbKey": "Flash para uma chave USB",
+    "flashTheOperatingSystemToAUsbStick": "Flash o sistema operacional para um stick USB usando uma ferramenta padrão, como o Rufus. Isso substituirá todos os dados do USB Stick, portanto, backup dos arquivos que você deseja manter.",
+    "getRufus": "Obtenha Rufus →",
+    "bootAndInstallOnYourComputer": "Inicialize e instale no seu computador",
+    "bootYourComputerFromYourUsbStick": "Inicialize seu computador no seu stick USB. Você precisará conhecer a combinação correta do teclado com antecedência. Neste ponto, você substituirá todos os dados no computador; portanto, faça com que o backup dos arquivos deseja manter. Siga as instruções e pronto! Bem -vindo ao seu novo computador antigo!"
+  },
+  "event": {
+    "language": "Linguagem",
+    "from": "De",
+    "to": "para",
+    "website": "Site"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "Final de 10 conteúdo do site",
+    "isLicensedUnder": "está licenciado em",
+    "thanksToKdeForSupportingTheProject": "Agradecemos à KDE por apoiar o projeto, hospedando o site e fornecendo a infraestrutura. Você pode entrar em contato com o",
+    "publicMailingList": "(lista de correspondência pública) ou ver o",
+    "privacyPolicy": "política de Privacidade",
+    "and": "e",
+    "legalNotices": "Avisos legais",
+    "forMoreInformation": "Para mais informações."
+  },
+  "search": {
+    "search": "Procurar"
+  },
+  "languages": {
+    "languages": "Idiomas"
+  },
+  "nav": {
+    "places": "Lugares",
+    "events": "Eventos",
+    "diyInstall": "Instalação de bricolage",
+    "team": "Equipe",
+    "addAPlaceOrEvent": "Adicione um lugar ou evento",
+    "contribute": "Contribuir",
+    "websiteSource": "Fonte do site"
+  },
+  "contribute": {
+    "contribute": "Contribuir",
+    "whenCanIPublish": "Quando posso publicar nosso café de reparo ou loja de computadores independente em endof10.org?",
+    "ifYouOfferLinuxHelp": "Se você oferecer ajuda ao Linux, poderá adicionar sua localização agora!",
+    "aDescriptionOfTheInformationWeNeedFor": "Uma descrição da informação que precisamos",
+    "places": "lugares",
+    "andFor": "e para",
+    "events": "eventos",
+    "canBeFoundAtTheGitRepository": "pode ser encontrado no ReadMe do repositório Git. Envie as informações por e -mail para endof10 [at] lists.posteo.de. Se puder, ajude -nos fornecendo essas informações no formato JSON.",
+    "ifYouHaveTheTechnicalKnow": "Se você tem o know-how técnico, também pode fazer um",
+    "mergeRequest": "Solicitação de mesclagem",
+    "yourselfAtTheEndOf10": "você mesmo no final do repositório do 10 site.",
+    "howCanIGetInvolved": "Como posso me envolver com a campanha?",
+    "thereAreManyWays": "Existem muitas maneiras de se envolver! Entre em contato conosco para que possamos coordenar seus esforços com os nossos.",
+    "putRepairCafes": "Coloque cafés de reparo e lojas de computadores independentes, oferecendo suporte ao Linux em contato conosco",
+    "organizeAnInstallationEvent": "Organize um evento de instalação e informe -nos sobre isso",
+    "designMaterials": "Materiais de design para novos usuários, como guias, folhetos promocionais, etc.",
+    "distributeMaterials": "Distribua materiais em cafés, lojas, universidades, escolas em sua área",
+    "boostTheCampaign": "Aumente a presença on -line da campanha compartilhando nossas postagens de mídia social",
+    "translateTheWebsite": "Traduza o site (mais abaixo), materiais de campanha, etc.",
+    "volunteerWithFoss": "Voluntário com as comunidades de Foss participando da campanha (melhorando a documentação, depuração de software, design)",
+    "yourIdeas": "suas idéias",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Quais plataformas de comunicação o final de 10 campanha usa?",
+    "writeUsAtOneOfThesePublicChannels": "Escreva -nos em um desses canais públicos, apresente -se e informe -nos como você gostaria de se envolver:",
+    "mailingList": "Lista de correspondência",
+    "isTheCampaignActiveOnSocialMedia": "A campanha é ativa nas mídias sociais?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Estamos no Fediverse! Siga nossa conta Mastodon e aumente nossas postagens",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Como posso ajudar com a tradução do site do endof10.org?",
+    "theWebsiteIsHostedByKde": "O site é hospedado pela KDE e segue o fluxo de trabalho de tradução usado para todos os sites da KDE.",
+    "findYourLanguageTeam": "Encontre sua equipe de idiomas",
+    "learnAboutTheProcess": "Aprenda sobre o processo",
+    "doYouAlreadyHaveAFlyer": "Você já tem um panfleto/pôster anunciando a campanha final de 10?",
+    "youCanFindALeafletInVariousLanguagesHere": "Você pode encontrar um folheto em vários idiomas aqui",
+    "weAreWorkingOnPosters": "Estamos trabalhando em pôsteres. Verifique aqui novamente em breve.",
+    "favoriteDistro": "Por que [Inserir distro favorito] não é promovido no site?",
+    "distroAgnostic": "O final de 10 site e divulgação são intencionalmente distro-agnósticos. O objetivo é falar como uma grande família Foss. Queremos que a campanha e as atividades representem todas as nossas comunidades.",
+    "doesDistroAgnosticMean": "As comunidades de foco médias distro-agnósticas não podem promover seu próprio trabalho?",
+    "IndividualFossCommunities": "As comunidades individuais são bem -vindas a promover seu próprio trabalho no contexto da campanha, com duas advertências: (i) Deve ficar claro que você está falando para sua comunidade e não pela campanha, e (ii) você não deve falar negativamente sobre o trabalho de outras comunidades.",
+    "forExample": "Por exemplo, uma das atividades planejadas é uma campanha de \"listas de 10\" de mídia social com a hashtag #endof10. Nesse contexto:",
+    "theOfficialEndOf10SocialMedia": "O final oficial de 10 contas de mídia social permanece o mais neutro possível (por exemplo, '10 razões para mudar para o Linux ') e não promove nenhuma distro específica.",
+    "yourCommunity": "Sua comunidade divulga as mídias sociais com \"10 razões para mudar para o [seu projeto]\" com a hashtag #endof10. Na lista de motivos, você promove seu próprio trabalho. No entanto, seria inaceitável falar negativamente sobre o trabalho de qualquer outra comunidade de Foss."
+  },
+  "events": {
+    "upcomingEvents": "Próximos eventos",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Aqui está uma lista de eventos em que você pode obter ajuda com o Linux. Você também pode procurar",
+    "places": "lugares",
+    "thatProvideHelpMore": "que fornecem mais ajuda",
+    "thatProvideHelpMoreRegularly": "que fornecem ajuda com mais regularidade."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Onde posso encontrar suporte ao Linux?",
+    "hereIsAListOfRepairCafes": "Aqui está uma lista de cafés de reparo, lojas independentes, organizações, grupos e coletivos onde você pode obter ajuda com o Linux regularmente. Dê uma olhada nos eventos."
+  },
+  "team": {
+    "teamBehindEndOf10": "Equipe atrás do final de 10",
+    "thisCampaign": "Esta campanha foi possível pelas contribuições entusiasmadas das seguintes pessoas (listadas em ordem alfabética pelo sobrenome):"
+  }
+}

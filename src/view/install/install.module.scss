@@ -1,0 +1,14 @@
+@use '@/styles/mixins/lists' as *;
+
+.install {
+  @include ordered-list();
+}
+
+.install__warning {
+  margin: 0 auto;
+  width: 80%;
+  border-radius: 0.5rem;
+  background: #f4f0de;
+  padding: 0.5rem 1rem;
+  color: #000;
+}

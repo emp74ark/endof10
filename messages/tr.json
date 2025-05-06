@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Windows 10 için destek 14 Ekim 2025'te bitiyor.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft yeni bir bilgisayar satın almanızı istiyor.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Peki ya şu anınızı hızlı ve güvenli hale getirebilseydiniz?",
+    "ifYouBoughtYourComputerAfter2010": "Bilgisayarınızı 2010'dan sonra satın aldıysanız, onu atmak için büyük olasılıkla bir neden yoktur. Sadece güncel bir Linux işletim sistemi kurarak, önümüzdeki yıllar boyunca kullanmaya devam edebilirsiniz.",
+    "installingAnOperatingSystemMaySoundDifficult": "Bir işletim sistemi kurmak zor gelebilir, ancak bunu tek başına yapmak zorunda değilsiniz. Herhangi bir şansla, bölgenizde yardım etmeye hazır insanlar var!",
+    "findSomeoneToHelpYou": "Size yardım edecek birini bulun →",
+    "installLinuxYourself": "Linux'u kendiniz yükleyin →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Windows 10'dan sonra başkalarının bilgisayarlarını canlı tutmasına yardımcı olmak ister misiniz?",
+    "signUpAsRepairCollective": "Onarım Kolektifi Olarak Kaydolun →",
+    "5Reasons": "5 Sebep",
+    "toUpgradeYourOldComputerToLinux": "Eski bilgisayarınızı Linux'a yükseltmek için",
+    "itsWayCheaper": "Waaaaay daha ucuz",
+    "aNewLaptopCostsALotOfMoney": "Yeni bir dizüstü bilgisayar çok paraya mal oluyor. Onarım kafeleri genellikle ücretsiz olarak yardımcı olur. Yazılım güncellemeleri de sonsuza dek ücretsizdir. Elbette her ikisine de desteğinizi bağışla gösterebilirsiniz!",
+    "noAdsNoSpying": "Reklam yok, casusluk yok",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windows günümüzde birçok reklam ve casus yazılımla birlikte geliyor, bilgisayarınızı yavaşlatıyor ve enerji faturanızı artırıyor.",
+    "goodForThePlanet": "Gezegen için iyi",
+    "productionOfAComputerAccountsFor75": "Bir bilgisayarın üretimi, yaşam döngüsüne göre karbon emisyonlarının% 75+'ı oluşturmaktadır. İşleyen bir cihazı daha uzun süre tutmak, emisyonları azaltmanın son derece etkili bir yoludur.",
+    "communitySupport": "Topluluk Desteği",
+    "ifYouHaveAnyIssuesWithYourCompute": "Bilgisayarınızla ilgili herhangi bir sorununuz varsa, yerel tamir kafe ve bağımsız bilgisayar mağazası sizin için var. Topluluk desteğini çevrimiçi forumlarda da bulabilirsiniz.",
+    "userControl": "Kullanıcı kontrolü",
+    "youAreInControlOfTheSoftware": "Şirketlerin değil, yazılımı kontrol ediyorsunuz. Bilgisayarınızı istediğiniz kadar istediğiniz kadar kullanın.",
+    "convinced": "İkna edilmiş?",
+    "thenFindYourClosestRepairCafe": "Ardından en yakın onarım kafenizi veya bağımsız bilgisayar mağazanızı bulun ve yepyeni, eski bilgisayarınızın tadını çıkarın!",
+    "repairYourOldComputer": "Eski bilgisayarınızı onarın →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY Kurulum Kılavuzu",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "En iyi deneyim için yüz yüze destek almanızı öneririz.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Teknik olarak kendiniz yapacak kadar bilgili olduğunuzu düşünüyorsanız, Linux'u kurmak için gereken üç adımla ilgili genel bir rehber. Bir dağıtım seçtikten sonra, web sitelerinde takip edebileceğiniz daha ayrıntılı kılavuzlara sahip olacaktır.",
+    "doBackups": "Yedekler!",
+    "beforeYouStart": "Başlamadan önce, yeniden yüklemek üzere olduğunuz bilgisayardan önemli verileri yedeklediğinizden emin olun!",
+    "downloadANewOs": "Yeni bir işletim sistemi indirin",
+    "downloadTheOperatingSystem": "Yüklemek istediğiniz işletim sistemini indirin. Bazı öneriler almaları için yeni başlayanlar için Linux dağıtımlarını arayın.",
+    "flashToAUsbKey": "USB anahtarına flaş",
+    "flashTheOperatingSystemToAUsbStick": "İşletim sistemini Rufus gibi standart bir araç kullanarak bir USB çubuğuna flaşlayın. Bu, USB çubuğundaki tüm verilerin üzerine yazacaktır, bu nedenle tutmak istediğiniz dosyaları yedeklediğinizden emin olun.",
+    "getRufus": "Rufus'u al →",
+    "bootAndInstallOnYourComputer": "Bilgisayarınıza önyükleyin ve kurun",
+    "bootYourComputerFromYourUsbStick": "Bilgisayarınızı USB çubuğunuzdan önyükleyin. Önceden doğru klavye kombinasyonunu bilmeniz gerekecektir. Bu noktada bilgisayardaki tüm verilerin üzerine yazacaksınız, bu yüzden saklamak istediğiniz dosyaları yedekleyin. Talimatları takip edin ve voilà! Yeni, eski bilgisayarınıza hoş geldiniz!"
+  },
+  "event": {
+    "language": "Dil",
+    "from": "İtibaren",
+    "to": "ile",
+    "website": "Web sitesi"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "10 web sitesi içeriği sonu",
+    "isLicensedUnder": "altında lisanslı",
+    "thanksToKdeForSupportingTheProject": "KDE'ye, web sitesine ev sahipliği yaparak ve altyapı sağlayarak projeyi desteklediği için teşekkürler. İletişime geçebilirsiniz",
+    "publicMailingList": "(genel posta listesi) veya görün",
+    "privacyPolicy": "Gizlilik Politikası",
+    "and": "Ve",
+    "legalNotices": "Yasal bildirimler",
+    "forMoreInformation": "Daha fazla bilgi için."
+  },
+  "search": {
+    "search": "Aramak"
+  },
+  "languages": {
+    "languages": "Diller"
+  },
+  "nav": {
+    "places": "Yer",
+    "events": "Olaylar",
+    "diyInstall": "DIY kurulumu",
+    "team": "Takım",
+    "addAPlaceOrEvent": "Bir yer veya etkinlik ekleyin",
+    "contribute": "Katkı yapmak",
+    "websiteSource": "Web sitesi kaynağı"
+  },
+  "contribute": {
+    "contribute": "Katkı yapmak",
+    "whenCanIPublish": "Endof10.org adresinde onarım kafemizi veya bağımsız bilgisayar mağazamızı ne zaman yayınlayabilirim?",
+    "ifYouOfferLinuxHelp": "Linux yardımı sunarsanız, şimdi konumunuzu ekleyebilirsiniz!",
+    "aDescriptionOfTheInformationWeNeedFor": "İhtiyacımız olan bilgilerin bir açıklaması",
+    "places": "yer",
+    "andFor": "ve",
+    "events": "olaylar",
+    "canBeFoundAtTheGitRepository": "Git deposunun ReadMe'sinde bulunabilir. Bilgileri e -posta yoluyla endof10 [AT] Lists.posteo.de'ye gönderin. Mümkünse, bu bilgileri JSON formatında sağlayarak bize yardım edin.",
+    "ifYouHaveTheTechnicalKnow": "Teknik bilginiz varsa, bir",
+    "mergeRequest": "Birleştirme isteği",
+    "yourselfAtTheEndOf10": "10 web sitesinin deposunun sonunda kendiniz.",
+    "howCanIGetInvolved": "Kampanyaya nasıl katılabilirim?",
+    "thereAreManyWays": "Katılmanın birçok yolu var! Çabalarınızı bizimkiyle koordine edebilmemiz için bizimle iletişime geçin.",
+    "putRepairCafes": "Linux desteği sunan onarım kafeleri ve bağımsız bilgisayar mağazalarını bizimle temas halinde koyun",
+    "organizeAnInstallationEvent": "Bir kurulum etkinliği düzenleyin ve bize bildirin",
+    "designMaterials": "Kılavuzlar, promosyon el ilanları vb. Gibi yeni kullanıcılar için tasarım malzemeleri.",
+    "distributeMaterials": "Bölgenizdeki kafeler, mağazalar, üniversiteler, okullarda materyalleri dağıtın",
+    "boostTheCampaign": "Sosyal medya yayınlarımızı paylaşarak kampanyanın çevrimiçi varlığını artırın",
+    "translateTheWebsite": "Web sitesini (daha fazla aşağıda), kampanya materyallerini vb. Çevireyin.",
+    "volunteerWithFoss": "Kampanyaya katılan FOSS topluluklarıyla gönüllü olun (belgeleri iyileştirme, yazılım hata ayıklama, tasarım)",
+    "yourIdeas": "Fikirleriniz",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "10 kampanyanın sonu hangi iletişim platformlarını kullanıyor?",
+    "writeUsAtOneOfThesePublicChannels": "Bizi bu halka açık kanallardan birine yazın, kendinizi tanıtın ve nasıl dahil olmak istediğinizi bize bildirin:",
+    "mailingList": "Posta listesi",
+    "isTheCampaignActiveOnSocialMedia": "Kampanya sosyal medyada aktif mi?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Fedevre'deyiz! Mastodon hesabımızı takip edin ve yayınlarımızı artırın",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Endof10.org web sitesinin çevirisine nasıl yardımcı olabilirim?",
+    "theWebsiteIsHostedByKde": "Web sitesi KDE tarafından barındırılıyor ve KDE'nin tüm web siteleri için kullanılan çeviri iş akışını takip ediyor.",
+    "findYourLanguageTeam": "Dil Ekibinizi Bul",
+    "learnAboutTheProcess": "Süreç hakkında bilgi edinin",
+    "doYouAlreadyHaveAFlyer": "Zaten 10 kampanyanın sonunu reklam veren bir broşür/posteriniz var mı?",
+    "youCanFindALeafletInVariousLanguagesHere": "Burada çeşitli dillerde bir broşür bulabilirsiniz",
+    "weAreWorkingOnPosters": "Posterler üzerinde çalışıyoruz. Yakında tekrar buraya bakın.",
+    "favoriteDistro": "Web sitesinde neden [favori dağıtım ekleyin] tanıtılmıyor?",
+    "distroAgnostic": "10 web sitesinin ve sosyal yardımın sonu kasıtlı olarak Agnostic'dir. Amaç, büyük bir Foss ailesi olarak konuşmaktır. Kampanyanın ve etkinliklerin tüm topluluklarımızı temsil etmesini istiyoruz.",
+    "doesDistroAgnosticMean": "Dialo-agnostik, foss topluluklarının kendi çalışmalarını teşvik edemediği anlamına mı geliyor?",
+    "IndividualFossCommunities": "Bireysel FOSS toplulukları, iki uyarı ile kampanya bağlamında kendi çalışmalarını teşvik edebilirler: (i) kampanyanız için değil, topluluğunuz için konuştuğunuz açık olmalı ve (ii) diğer toplulukların çalışmaları hakkında olumsuz konuşmamalısınız.",
+    "forExample": "Örneğin, planlanan faaliyetlerden biri, #endof10 hashtagiyle \"10 sosyal medya kampanyası\". Bu bağlamda:",
+    "theOfficialEndOf10SocialMedia": "10 sosyal medya hesabının resmi sonu mümkün olduğunca tarafsız kalır (örneğin, 'Linux'a geçme nedenleri') ve belirli bir dağıtım tanıtmaz.",
+    "yourCommunity": "Topluluğunuz, #Endof10 hashtagiyle \"[projenize] geçmenin 10 nedeniyle\" sosyal medyada sosyal medyada karşılaşıyor. Sebepler listesinde kendi işinizi tanıtıyorsunuz. Bununla birlikte, diğer tüm Foss topluluğunun çalışmaları hakkında olumsuz konuşmak kabul edilemez."
+  },
+  "events": {
+    "upcomingEvents": "Yaklaşan etkinlikler",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "İşte Linux konusunda yardım alabileceğiniz etkinliklerin bir listesi. Ayrıca arayabilirsiniz",
+    "places": "yer",
+    "thatProvideHelpMore": "daha fazla yardım sağlayan",
+    "thatProvideHelpMoreRegularly": "daha düzenli yardım sağlar."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Linux desteğini nerede bulabilirim?",
+    "hereIsAListOfRepairCafes": "İşte Linux ile düzenli olarak yardım alabileceğiniz onarım kafelerinin, bağımsız mağazaların, kuruluşların, grupların ve kolektiflerin bir listesi. Ayrıca olaylara bir göz atın."
+  },
+  "team": {
+    "teamBehindEndOf10": "10'un sonunun arkasında takım",
+    "thisCampaign": "Bu kampanya, aşağıdaki kişilerin coşkulu katkılarıyla mümkün olmuştur (soyadına göre alfabetik sırayla listelenmiştir):"
+  }
+}

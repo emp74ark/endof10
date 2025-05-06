@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Podpora za Windows 10 se konča 14. oktobra 2025.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft želi, da kupite nov računalnik.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Kaj pa, če bi lahko svoj trenutni spet hitro in zaščitili?",
+    "ifYouBoughtYourComputerAfter2010": "Če ste računalnik kupili po letu 2010, najverjetneje ni razloga, da bi ga vrgli ven. Z namestitvijo najnovejšega operacijskega sistema Linux ga lahko nadaljujete v prihodnjih letih.",
+    "installingAnOperatingSystemMaySoundDifficult": "Namestitev operacijskega sistema se lahko sliši težko, vendar vam tega ni treba storiti sami. S srečo so na vašem območju ljudje pripravljeni na pomoč!",
+    "findSomeoneToHelpYou": "Poiščite nekoga, ki vam bo pomagal →",
+    "installLinuxYourself": "Namestite Linux sami →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Bi radi pomagali drugim, da imajo računalnik pri življenju po sistemu Windows 10?",
+    "signUpAsRepairCollective": "Prijavite se kot popravilni kolektiv →",
+    "5Reasons": "5 razlogov",
+    "toUpgradeYourOldComputerToLinux": "za nadgradnjo starega računalnika na Linux",
+    "itsWayCheaper": "WAAAAAY je ceneje",
+    "aNewLaptopCostsALotOfMoney": "Nov prenosnik stane veliko denarja. Kavarne za popravilo vam bodo pogosto pomagale brezplačno. Posodobitve programske opreme so tudi brezplačne, za vedno. Seveda lahko pokažete svojo podporo za obe z donacijami!",
+    "noAdsNoSpying": "Brez oglasov, brez vohunjenja",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windows ima danes veliko oglasov in vohunske programske opreme, upočasnite računalnik in povečate račun za energijo.",
+    "goodForThePlanet": "Dobro za planet",
+    "productionOfAComputerAccountsFor75": "Proizvodnja računalnika predstavlja 75+% emisij ogljika v svojem življenjskem ciklu. Ohranjanje delujoče naprave je izjemno učinkovit način za zmanjšanje emisij.",
+    "communitySupport": "Podpora skupnosti",
+    "ifYouHaveAnyIssuesWithYourCompute": "Če imate težave z računalnikom, so za vas tam lokalna popravila in neodvisna računalniška trgovina. Podpora skupnosti najdete tudi na spletnih forumih.",
+    "userControl": "Uporabniški nadzor",
+    "youAreInControlOfTheSoftware": "Nadzorujete programsko opremo, ne pa podjetja. Uporabite računalnik, kako želite, kolikor želite.",
+    "convinced": "Prepričan?",
+    "thenFindYourClosestRepairCafe": "Nato poiščite svojo najbližjo popravilo ali neodvisno računalniško trgovino in uživajte v svojem povsem novem, starem računalniku!",
+    "repairYourOldComputer": "Popravite stari računalnik →"
+  },
+  "install": {
+    "diyInstallGuide": "Navodila za namestitev DIY",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Priporočamo, da dobite osebno podporo za najboljše izkušnje.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Če se vam zdi, da ste tehnično dovolj seznanjeni, da to storite sami, je tukaj splošni vodnik s tremi koraki, potrebnimi za namestitev Linuxa. Ko boste izbrali distribucijo, bo na njihovem spletnem mestu podrobnejše vodnike, ki jih lahko sledite.",
+    "doBackups": "Naredite varnostne kopije!",
+    "beforeYouStart": "Preden začnete, se prepričajte, da varnostno kopirate vse pomembne podatke iz računalnika, ki ga nameravate znova namestiti!",
+    "downloadANewOs": "Prenesite nov OS",
+    "downloadTheOperatingSystem": "Prenesite operacijski sistem, ki ga želite namestiti. Poiščite distribucije Linuxa za začetnike, da dobite nekaj predlogov.",
+    "flashToAUsbKey": "Bliskavico do ključa USB",
+    "flashTheOperatingSystemToAUsbStick": "Operacijski sistem utripajte na USB palico s standardnim orodjem, kot je Rufus. To bo prepisalo vse podatke na USB palici, zato se prepričajte, da varnostno kopirate datoteke, ki jih želite obdržati.",
+    "getRufus": "Pridobite rufus →",
+    "bootAndInstallOnYourComputer": "Zaženite in namestite v računalnik",
+    "bootYourComputerFromYourUsbStick": "Zaženite računalnik s palice USB. Predhodno boste morali vedeti pravilno kombinacijo tipkovnice. Na tej točki boste prepisali vse podatke v računalniku, zato imate varnostno kopiranje datotek, ki jih želite obdržati. Sledite navodilom in voilà! Dobrodošli v vašem novem, starem računalniku!"
+  },
+  "event": {
+    "language": "Jezik",
+    "from": "Od",
+    "to": "do",
+    "website": "Spletno mesto"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "Konec 10 vsebin spletnega mesta",
+    "isLicensedUnder": "ima licenco pod",
+    "thanksToKdeForSupportingTheProject": "Hvala KDE za podporo projektu z gostovanjem spletnega mesta in zagotavljanjem infrastrukture. Lahko se obrnete na",
+    "publicMailingList": "(seznam javnih poštnih sporočil) ali si oglejte",
+    "privacyPolicy": "Politika zasebnosti",
+    "and": "in",
+    "legalNotices": "Pravna obvestila",
+    "forMoreInformation": "Za več informacij."
+  },
+  "search": {
+    "search": "Iskanje"
+  },
+  "languages": {
+    "languages": "Jeziki"
+  },
+  "nav": {
+    "places": "Kraji",
+    "events": "Dogodki",
+    "diyInstall": "Namestitev DIY",
+    "team": "Ekipa",
+    "addAPlaceOrEvent": "Dodajte kraj ali dogodek",
+    "contribute": "Prispevati",
+    "websiteSource": "Vir spletnega mesta"
+  },
+  "contribute": {
+    "contribute": "Prispevati",
+    "whenCanIPublish": "Kdaj lahko objavim našo popravilo ali neodvisno računalniško trgovino na endof10.org?",
+    "ifYouOfferLinuxHelp": "Če ponujate pomoč Linux, lahko zdaj dodate svojo lokacijo!",
+    "aDescriptionOfTheInformationWeNeedFor": "Opis informacij, ki jih potrebujemo",
+    "places": "kraji",
+    "andFor": "in za",
+    "events": "dogodki",
+    "canBeFoundAtTheGitRepository": "Najdemo ga v ReadMe Git Repository. Podatke po e -pošti pošljite na ENDOF10 [at] Lists.posteo.de. Če lahko, nam pomagajte tako, da te informacije posredujemo v obliki JSON.",
+    "ifYouHaveTheTechnicalKnow": "Če imate tehnično znanje, lahko naredite tudi",
+    "mergeRequest": "Zahteva za spajanje",
+    "yourselfAtTheEndOf10": "sami na koncu 10 skladišč spletnega mesta.",
+    "howCanIGetInvolved": "Kako se lahko vključim v kampanjo?",
+    "thereAreManyWays": "Obstaja veliko načinov, kako se vključiti! Pišite nam, da bomo lahko uskladili vaša prizadevanja z našimi.",
+    "putRepairCafes": "Postavite kavarne za popravilo in neodvisne računalniške trgovine, ki ponujajo podporo Linuxu v stiku z nami",
+    "organizeAnInstallationEvent": "Organizirajte namestitveni dogodek in nam sporočite",
+    "designMaterials": "Oblikovalski materiali za nove uporabnike, kot so vodniki, promocijski letaki itd.",
+    "distributeMaterials": "Razdelite gradivo v kavarnah, trgovinah, univerzah, šolah na vašem območju",
+    "boostTheCampaign": "Povečajte spletno prisotnost kampanje z deljenjem naših objav v družbenih medijih",
+    "translateTheWebsite": "Prevedite spletno mesto (več spodaj), gradivo za kampanjo itd.",
+    "volunteerWithFoss": "Prostovoljno s FOSS skupnosti, ki sodelujejo v kampanji (izboljšanje dokumentacije, odpravljanje napak v programski opremi, oblikovanje)",
+    "yourIdeas": "vaše ideje",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Katere komunikacijske platforme uporablja konec 10 kampanj?",
+    "writeUsAtOneOfThesePublicChannels": "Napišite nam na enem od teh javnih kanalov, se predstavite in nam sporočite, kako se želite vključiti:",
+    "mailingList": "Poštni seznam",
+    "isTheCampaignActiveOnSocialMedia": "Ali je kampanja aktivna na družbenih medijih?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Smo na Fediverseu! Sledite našemu računu Mastodon in okrepite naše objave",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Kako si lahko pomagam pri prevodu spletnega mesta Endof10.org?",
+    "theWebsiteIsHostedByKde": "Spletno mesto gosti KDE in sledi prevajalskemu delovnemu toku, ki se uporablja za vsa spletna mesta KDE.",
+    "findYourLanguageTeam": "Poiščite svojo jezikovno ekipo",
+    "learnAboutTheProcess": "Spoznajte postopek",
+    "doYouAlreadyHaveAFlyer": "Ali že imate letak/plakat, ki oglašuje kampanjo konec 10?",
+    "youCanFindALeafletInVariousLanguagesHere": "Zloženko najdete v različnih jezikih tukaj",
+    "weAreWorkingOnPosters": "Delamo na plakatih. Kmalu preverite tukaj.",
+    "favoriteDistro": "Zakaj [vstavite najljubši Distro] na spletnem mestu?",
+    "distroAgnostic": "Konec 10 spletnih strani in dosežkov sta namerno distro-agnostik. Cilj je govoriti kot velika družina FOSS. Želimo, da kampanja in dejavnosti predstavljajo vse naše skupnosti.",
+    "doesDistroAgnosticMean": "Ali distro-agnostik pomeni, da ne morejo spodbujati svojega dela?",
+    "IndividualFossCommunities": "Posamezne skupnosti FOSS so dobrodošle, da promovirajo svoje delo v okviru kampanje z dvema opozorili: (i) mora biti jasno, da govorite za svojo skupnost in ne za kampanjo, in (ii) ne smete negativno govoriti o delu drugih skupnosti.",
+    "forExample": "Na primer, ena od načrtovanih dejavnosti je \"seznami 10\" kampanje družbenih medijev s hashtagom #Endof10. V tem kontekstu:",
+    "theOfficialEndOf10SocialMedia": "Uradni konec 10 računa družbenih medijev ostaja čim bolj nevtralen (npr. '10 razlogov za prehod na Linux ') in ne spodbuja nobenega posebnega distro.",
+    "yourCommunity": "Vaša skupnost na družbenih medijih doseže \"10 razlogov za prehod na [vaš projekt]\" s hashtagom #endof10. Na seznamu razlogov promovirate svoje delo. Vendar bi bilo nesprejemljivo govoriti negativno o delu drugih FOSS skupnosti."
+  },
+  "events": {
+    "upcomingEvents": "Prihajajoči dogodki",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Tu je seznam dogodkov, na katerih lahko poiščete pomoč pri Linuxu. Lahko tudi iščete",
+    "places": "kraji",
+    "thatProvideHelpMore": "ki nudijo pomoč več",
+    "thatProvideHelpMoreRegularly": "ki nudijo bolj redno pomoč."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Kje najdem podporo Linux?",
+    "hereIsAListOfRepairCafes": "Tu je seznam popravilnih kavarn, neodvisnih trgovin, organizacij, skupin in kolektivov, kjer lahko redno poiščete pomoč pri Linuxu. Oglejte si tudi dogodke."
+  },
+  "team": {
+    "teamBehindEndOf10": "Ekipa za konec 10",
+    "thisCampaign": "To kampanjo so omogočili navdušeni prispevki naslednjih ljudi (navedena po abecednem vrstnem redu po priimku):"
+  }
+}

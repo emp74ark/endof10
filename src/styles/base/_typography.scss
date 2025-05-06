@@ -1,0 +1,128 @@
+@use 'sass:list';
+@use 'sass:map';
+
+@font-face {
+  font-family: InterVariable;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/InterVariable.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: InterVariable;
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/InterVariable-Italic.woff2") format("woff2");
+}
+
+:root {
+  font-family: InterVariable, Helvetica, Roboto, sans-serif;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 28px;
+}
+
+$title-font-sizes: 2.2rem, 2rem, 1.5rem, 1.1rem, 1rem;
+
+$p-font-sizes: 1.6rem, 1.25rem, 1.125rem, 1rem, 0.7rem;
+
+$font-weights: (
+        normal: 500,
+        medium: 600,
+        semibold: 700,
+        bold: 800,
+        extrabold: 900,
+);
+
+$title-font-weight: (
+        h1: map.get($font-weights, extrabold),
+        h2: map.get($font-weights, bold),
+        h3: map.get($font-weights, semibold),
+        h4: map.get($font-weights, semibold),
+        h5: map.get($font-weights, semibold),
+);
+
+@mixin title-styles($index) {
+  $font-size: list.nth($title-font-sizes, $index);
+
+  font-size: list.nth($title-font-sizes, $index);
+  font-weight: map.get($title-font-weight, h#{$index});
+}
+
+@mixin paragraph-styles($index) {
+  $font-size: list.nth($p-font-sizes, $index);
+
+  font-size: $font-size;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+@mixin text-weight($weight) {
+  font-weight: map.get($font-weights, $weight);
+}
+
+@mixin text-align($alignment) {
+  text-align: $alignment;
+}
+
+body {
+  @for $i from 1 through list.length($title-font-sizes) {
+    h#{$i},
+    .h#{$i} {
+      @include title-styles($i);
+    }
+  }
+
+  @for $i from 1 through list.length($p-font-sizes) {
+    .p#{$i} {
+      @include paragraph-styles($i);
+    }
+  }
+
+  @each $weight, $value in $font-weights {
+    .txt__#{$weight} {
+      @include text-weight($weight);
+    }
+  }
+
+  @each $alignment in (center, right) {
+    .txt__#{$alignment} {
+      @include text-align($alignment);
+    }
+  }
+
+  p {
+    padding: 1ch 0;
+  }
+
+  a {
+    color: var(--link-initial);
+  }
+
+  a:not(.unstyled) {
+    border-radius: 0.3rem;
+    text-decoration: underline;
+    text-underline-offset: 0.2rem;
+
+    &:hover,
+    &:active {
+      color: var(--link-hover);
+    }
+
+    &:visited {
+      color: inherit;
+    }
+  }
+
+  a.unstyled {
+    text-decoration: none;
+  }
+
+  strong,
+  b {
+    font-weight: 800;
+  }
+}

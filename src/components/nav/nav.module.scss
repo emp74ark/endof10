@@ -1,0 +1,42 @@
+@use '@/styles/mixins/blocks' as *;
+
+.nav {
+  margin: 0 auto;
+  padding: 0.5rem 0 2rem;
+  width: fit-content;
+
+  & li {
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    line-height: 1;
+
+    @include block-hover();
+  }
+
+  & ul {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    list-style: none;
+    padding-left: 0;
+  }
+
+  &__header {
+    & ul {
+      gap: 0.5rem;
+    }
+
+    & li {
+      font-size: 1.1rem;
+    }
+  }
+
+  &__footer {
+    & ul {
+      align-items: flex-start;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+  }
+}

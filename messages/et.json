@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Windows 10 tugi lõpeb 14. oktoobril 2025.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft soovib, et ostaksite uue arvuti.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Aga mis siis, kui saaksite oma praeguse kiireks teha ja uuesti kindlustada?",
+    "ifYouBoughtYourComputerAfter2010": "Kui ostsite oma arvuti pärast 2010. aastat, pole tõenäoliselt põhjust selle välja visata. Installides lihtsalt ajakohase Linuxi opsüsteemi, saate seda kasutada aastaid.",
+    "installingAnOperatingSystemMaySoundDifficult": "Operatsioonisüsteemi installimine võib tunduda keeruline, kuid te ei pea seda üksi tegema. Mis tahes õnne korral on teie piirkonnas inimesi, kes on valmis aitama!",
+    "findSomeoneToHelpYou": "Leidke keegi, kes teid aitaks →",
+    "installLinuxYourself": "Installige Linux ise →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Kas soovite aidata teistel pärast Windows 10 oma arvutit elus hoida?",
+    "signUpAsRepairCollective": "Registreeruge remondikollektiivina →",
+    "5Reasons": "5 põhjust",
+    "toUpgradeYourOldComputerToLinux": "Vana arvuti uuendamiseks Linuxiks",
+    "itsWayCheaper": "See on waaaaay odavam",
+    "aNewLaptopCostsALotOfMoney": "Uus sülearvuti maksab palju raha. Remondi kohvikud aitavad teid sageli tasuta. Tarkvarauuendused on ka igavesti tasuta. Muidugi saate oma toetust mõlemale annetustega näidata!",
+    "noAdsNoSpying": "Pole reklaame ega luuramist",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windowsil on tänapäeval palju reklaame ja nuhkvara, aeglustades arvutit ja suurendades energiaarve.",
+    "goodForThePlanet": "Hea planeedile",
+    "productionOfAComputerAccountsFor75": "Arvuti tootmine moodustab elutsükli jooksul 75+% süsinikuheitest. Töötava seadme kauem hoidmine on tohutult tõhus viis heitkoguste vähendamiseks.",
+    "communitySupport": "Kogukonna toetus",
+    "ifYouHaveAnyIssuesWithYourCompute": "Kui teil on arvutiga probleeme, on teie jaoks olemas kohalik remondikohvik ja sõltumatu arvutipood. Kogukonna tuge leiate ka veebifoorumitest.",
+    "userControl": "Kasutajakontroll",
+    "youAreInControlOfTheSoftware": "Te kontrollite tarkvara, mitte ettevõtteid. Kasutage oma arvutit nii, nagu soovite, nii kaua kui soovite.",
+    "convinced": "Veendunud?",
+    "thenFindYourClosestRepairCafe": "Seejärel leidke oma lähim remondikohvik või sõltumatu arvutipood ja nautige oma uhiuut, vana arvutit!",
+    "repairYourOldComputer": "Parandage oma vana arvuti →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY installijuhend",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Parima kogemuse saamiseks soovitame saada isiklikku tuge.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Kui tunnete, et olete tehniliselt piisavalt kursis, et seda ise teha, siis siin on üldjuhend, millel on Linuxi installimiseks vajalik kolm sammu. Kui olete jaotuse valinud, on nende veebisaidil üksikasjalikumad juhendid, mida saate järgida.",
+    "doBackups": "Tehke varukoopiaid!",
+    "beforeYouStart": "Enne alustamist varundage kindlasti kõik olulised andmed arvutist, mida kavatsete uuesti installida!",
+    "downloadANewOs": "Laadige alla uus OS",
+    "downloadTheOperatingSystem": "Laadige alla opsüsteem, mille soovite installida. Mõningate ettepanekute saamiseks otsige algajatele Linuxi jaotusi.",
+    "flashToAUsbKey": "Välk USB -võtmeni",
+    "flashTheOperatingSystemToAUsbStick": "Värbige opsüsteem USB -pulgani, kasutades standardset tööriista, näiteks Rufus. See kirjutab kõik USB -pulga andmed üle, nii et varundage kindlasti faile, mida soovite hoida.",
+    "getRufus": "Hankige rufus →",
+    "bootAndInstallOnYourComputer": "Alustage ja installige oma arvutisse",
+    "bootYourComputerFromYourUsbStick": "Alustage arvuti oma USB -pulgast. Eelnevalt peate teadma õiget klaviatuurikombinatsiooni. Sel hetkel kirjutate kõik arvutis olevad andmed üle, nii et laske varundada failidest, mida soovite säilitada. Järgige juhiseid ja voilà! Tere tulemast oma uude, vanasse arvutisse!"
+  },
+  "event": {
+    "language": "Keel",
+    "from": "-Lt",
+    "to": "juurde",
+    "website": "Veebisait"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "10 veebisaidi sisu lõpp",
+    "isLicensedUnder": "on litsentsi all",
+    "thanksToKdeForSupportingTheProject": "Tänu KDE -le projekti toetamise eest veebisaidi majutamise ja infrastruktuuri pakkumise eest. Võite ühendust võtta",
+    "publicMailingList": "(avalik meililisti) või vaadake",
+    "privacyPolicy": "Privaatsuspoliitika",
+    "and": "ja",
+    "legalNotices": "Juriidilised teated",
+    "forMoreInformation": "Lisateabe saamiseks."
+  },
+  "search": {
+    "search": "Otsima"
+  },
+  "languages": {
+    "languages": "Keeled"
+  },
+  "nav": {
+    "places": "Kohad",
+    "events": "Sündmused",
+    "diyInstall": "DIY installimine",
+    "team": "Meeskond",
+    "addAPlaceOrEvent": "Lisage koht või sündmus",
+    "contribute": "Panustama",
+    "websiteSource": "Veebisaidi allikas"
+  },
+  "contribute": {
+    "contribute": "Panustama",
+    "whenCanIPublish": "Millal saan avaldada meie remondikohviku või sõltumatu arvutipoodi aadressil endof10.org?",
+    "ifYouOfferLinuxHelp": "Kui pakute Linuxi abi, saate oma asukoha kohe lisada!",
+    "aDescriptionOfTheInformationWeNeedFor": "Vajaliku teabe kirjeldus",
+    "places": "kohad",
+    "andFor": "ja",
+    "events": "sündmused",
+    "canBeFoundAtTheGitRepository": "võib leida Giti hoidla Readme'ist. Saatke teave e -posti aadressile endof10 [at] list.posteo.de. Kui saate, aidake meid välja, pakkudes seda teavet JSON -vormingus.",
+    "ifYouHaveTheTechnicalKnow": "Kui teil on tehniline oskusteave, saate teha ka a",
+    "mergeRequest": "Ühendama",
+    "yourselfAtTheEndOf10": "ise 10 veebisaidi hoidla lõpus.",
+    "howCanIGetInvolved": "Kuidas ma saan kampaaniaga osaleda?",
+    "thereAreManyWays": "Kaasamiseks on palju võimalusi! Võtke meiega ühendust, et saaksime teie jõupingutusi oma.",
+    "putRepairCafes": "Pange remondikohvikud ja sõltumatud arvutipoodid, mis pakuvad meiega ühendust Linuxi tugi",
+    "organizeAnInstallationEvent": "Korraldage installisündmus ja andke meile sellest teada",
+    "designMaterials": "Uutele kasutajatele mõeldud disainimaterjalid, näiteks giidid, reklaamieletid jne.",
+    "distributeMaterials": "Levitage materjale kohvikutes, poodides, ülikoolides, teie piirkonna koolides",
+    "boostTheCampaign": "Suurendage kampaania veebipõhist kohalolekut, jagades meie sotsiaalmeedia postitusi",
+    "translateTheWebsite": "Tõlgi veebisaiti (rohkem allpool), kampaaniamaterjalid jne.",
+    "volunteerWithFoss": "Kampaanias osalevate fossikogukondadega vabatahtlik (dokumentatsiooni parandamine, tarkvara silumine, disain)",
+    "yourIdeas": "Teie ideed",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Milliseid kommunikatsiooniplatvorme kasutab 10 kampaania lõppu?",
+    "writeUsAtOneOfThesePublicChannels": "Kirjutage meile ühte neist avalikest kanalitest, tutvustage ennast ja andke meile teada, kuidas soovite osaleda:",
+    "mailingList": "Meililiit",
+    "isTheCampaignActiveOnSocialMedia": "Kas kampaania on sotsiaalmeedias aktiivne?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Oleme Fediverse'is! Järgige meie Mastodoni kontot ja suurendage meie postitusi",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Kuidas saan aidata veebisaidi endof10.org tõlkimisel?",
+    "theWebsiteIsHostedByKde": "Veebisaiti võõrustab KDE ja see järgib kõigi KDE veebisaitide jaoks kasutatavat tõlke töövoogu.",
+    "findYourLanguageTeam": "Leidke oma keelemeeskond",
+    "learnAboutTheProcess": "Tutvuge protsessi kohta",
+    "doYouAlreadyHaveAFlyer": "Kas teil on juba 10 kampaania lõppu reklaamimas lendlehte/plakatit?",
+    "youCanFindALeafletInVariousLanguagesHere": "Voldiku leiate erinevatest keeltest siit",
+    "weAreWorkingOnPosters": "Töötame plakatite kallal. Kontrollige varsti uuesti.",
+    "favoriteDistro": "Miks ei reklaamita veebisaidil [INSERTi lemmik distro]?",
+    "distroAgnostic": "10 veebisaidi ja teavitustöö lõpp on tahtlikult distro-agnostiline. Eesmärk on rääkida suure fossi perena. Soovime, et kampaania ja tegevused esindaksid kõiki meie kogukondi.",
+    "doesDistroAgnosticMean": "Kas distro-agnostiline foossikogukonnad ei saa oma tööd edendada?",
+    "IndividualFossCommunities": "Fossikogukonnad on oodatud oma tööd kampaania kontekstis reklaamima kahe hoiatusega: (i) peab olema selge, et räägite oma kogukonna, mitte kampaania eest, ja (ii) ei tohi te teiste kogukondade tööst negatiivselt rääkida.",
+    "forExample": "Näiteks on üks kavandatud tegevustest sotsiaalmeedia kampaania \"10\" nimekiri hashtagi #Endof10 -ga. Selles kontekstis:",
+    "theOfficialEndOf10SocialMedia": "10 sotsiaalmeedia konto ametlik lõpp on võimalikult neutraalne (nt '10 põhjust Linuxile üle minna) ega edenda konkreetset distrot.",
+    "yourCommunity": "Teie kogukond teavitab sotsiaalmeedias \"10 põhjust oma projektile üle minna\" hashtagiga #Endof10. Põhjuste loendis reklaamige oma tööd. Siiski oleks vastuvõetamatu rääkida negatiivselt kõigist muudest fossikogukondade töödest."
+  },
+  "events": {
+    "upcomingEvents": "Eelseisvad sündmused",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Siin on nimekiri sündmustest, kus saate Linuxi abi. Võite ka otsida",
+    "places": "kohad",
+    "thatProvideHelpMore": "mis pakuvad rohkem abi",
+    "thatProvideHelpMoreRegularly": "mis pakuvad regulaarsemalt abi."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Kust leida Linuxi tugi?",
+    "hereIsAListOfRepairCafes": "Siin on nimekiri remondikohvikutest, sõltumatutest poodidest, organisatsioonidest, rühmadest ja kollektiividest, kus saate Linuxi regulaarselt abi saada. Vaadake ka sündmusi."
+  },
+  "team": {
+    "teamBehindEndOf10": "Meeskond 10 lõpu taga",
+    "thisCampaign": "Selle kampaania on teinud võimalikuks järgmiste inimeste entusiastlik panus (loetletud tähestikulises järjekorras perekonnanime järgi):"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Ondersteuning voor Windows 10 eindigt op 14 oktober 2025.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft wil dat u een nieuwe computer koopt.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Maar wat als u uw huidige snel en weer veilig zou maken?",
+    "ifYouBoughtYourComputerAfter2010": "Als u uw computer na 2010 hebt gekocht, is er waarschijnlijk geen reden om het weg te gooien. Door alleen een up-to-date Linux-besturingssysteem te installeren, kunt u het nog jaren blijven gebruiken.",
+    "installingAnOperatingSystemMaySoundDifficult": "Het installeren van een besturingssysteem klinkt misschien moeilijk, maar u hoeft het niet alleen te doen. Met een beetje geluk zijn er mensen in uw omgeving klaar om te helpen!",
+    "findSomeoneToHelpYou": "Zoek iemand om u te helpen →",
+    "installLinuxYourself": "Installeer Linux zelf →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Wilt u anderen helpen hun computer in leven te houden na Windows 10?",
+    "signUpAsRepairCollective": "Meld u aan als reparatiecollectief →",
+    "5Reasons": "5 redenen",
+    "toUpgradeYourOldComputerToLinux": "Om uw oude computer te upgraden naar Linux",
+    "itsWayCheaper": "Het is waaaaay goedkoper",
+    "aNewLaptopCostsALotOfMoney": "Een nieuwe laptop kost veel geld. Reparatiecafés helpen u vaak gratis. Software -updates zijn ook gratis, voor altijd. U kunt natuurlijk uw steun voor beide met donaties tonen!",
+    "noAdsNoSpying": "Geen advertenties, geen spionage",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windows wordt tegenwoordig met veel advertenties en spyware geleverd, die uw computer vertraagt ​​en uw energierekening verhoogt.",
+    "goodForThePlanet": "Goed voor de planeet",
+    "productionOfAComputerAccountsFor75": "De productie van een computer is goed voor 75+% van de koolstofemissies gedurende zijn levenscyclus. Een functionerend apparaat langer houden is een enorm effectieve manier om de uitstoot te verminderen.",
+    "communitySupport": "Ondersteuning van de gemeenschap",
+    "ifYouHaveAnyIssuesWithYourCompute": "Als u problemen heeft met uw computer, zijn het Local Repair Cafe en Independent Computer Shop er voor u. U kunt ook community -ondersteuning vinden op online forums.",
+    "userControl": "Gebruikersbeheersing",
+    "youAreInControlOfTheSoftware": "U hebt de controle over de software, geen bedrijven. Gebruik uw computer hoe u wilt, zolang u maar wilt.",
+    "convinced": "Overtuigd?",
+    "thenFindYourClosestRepairCafe": "Zoek vervolgens uw dichtstbijzijnde reparatiecafé of onafhankelijke computerwinkel en geniet van uw gloednieuwe, oude computer!",
+    "repairYourOldComputer": "Herstel uw oude computer →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY -installatiegids",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "We raden aan om persoonlijke ondersteuning te krijgen voor de beste ervaring.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Als je het gevoel hebt dat je technisch genoeg genoeg bent om het zelf te doen, is hier een algemene gids met de drie stappen die nodig zijn voor het installeren van Linux. Nadat u een distributie hebt gekozen, heeft hun website meer gedetailleerde gidsen die u kunt volgen.",
+    "doBackups": "Doe back -ups!",
+    "beforeYouStart": "Voordat u begint, moet u een back -up maken van belangrijke gegevens van de computer die u op het punt staat opnieuw te installeren!",
+    "downloadANewOs": "Download een nieuw besturingssysteem",
+    "downloadTheOperatingSystem": "Download het besturingssysteem dat u wilt installeren. Zoek naar Linux -distributies voor beginners om enkele suggesties te krijgen.",
+    "flashToAUsbKey": "Flits naar een USB -sleutel",
+    "flashTheOperatingSystemToAUsbStick": "Flits het besturingssysteem naar een USB -stick met behulp van een standaardtool, zoals Rufus. Dit overschrijft alle gegevens op de USB -stick, dus zorg ervoor dat u een back -up maakt van de bestanden die u wilt bewaren.",
+    "getRufus": "Krijg Rufus →",
+    "bootAndInstallOnYourComputer": "Start en installeer op uw computer",
+    "bootYourComputerFromYourUsbStick": "Start uw computer op vanaf uw USB -stick. U moet vooraf de juiste toetsenbordcombinatie kennen. Op dit moment overschrijft u alle gegevens op de computer, dus een back -up van de bestanden die u wilt bewaren. Volg de instructies en voilà! Welkom bij uw nieuwe, oude computer!"
+  },
+  "event": {
+    "language": "Taal",
+    "from": "Van",
+    "to": "naar",
+    "website": "Website"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "Einde van 10 website -inhoud",
+    "isLicensedUnder": "heeft een licentie onder",
+    "thanksToKdeForSupportingTheProject": "Dank aan KDE voor het ondersteunen van het project door de website te hosten en de infrastructuur te verstrekken. U kunt contact opnemen met de",
+    "publicMailingList": "(openbare mailinglijst) of zie de",
+    "privacyPolicy": "Privacybeleid",
+    "and": "En",
+    "legalNotices": "Juridische kennisgevingen",
+    "forMoreInformation": "Voor meer informatie."
+  },
+  "search": {
+    "search": "Zoekopdracht"
+  },
+  "languages": {
+    "languages": "Talen"
+  },
+  "nav": {
+    "places": "Plaatsen",
+    "events": "Evenementen",
+    "diyInstall": "DIY -installatie",
+    "team": "Team",
+    "addAPlaceOrEvent": "Voeg een plaats of evenement toe",
+    "contribute": "Bijdragen",
+    "websiteSource": "Website bron"
+  },
+  "contribute": {
+    "contribute": "Bijdragen",
+    "whenCanIPublish": "Wanneer kan ik ons ​​reparatiecafé of onafhankelijke computerwinkel publiceren op endof10.org?",
+    "ifYouOfferLinuxHelp": "Als u Linux -hulp aanbiedt, kunt u uw locatie nu toevoegen!",
+    "aDescriptionOfTheInformationWeNeedFor": "Een beschrijving van de informatie die we nodig hebben",
+    "places": "plaatsen",
+    "andFor": "en daarvoor",
+    "events": "evenementen",
+    "canBeFoundAtTheGitRepository": "kan worden gevonden in de README van de Git Repository. Stuur de informatie per e -mail naar endof10 [AT] -lijsten. Posteo.de. Als je kunt, help ons dan door die informatie in JSON -indeling te verstrekken.",
+    "ifYouHaveTheTechnicalKnow": "Als u de technische knowhow hebt, kunt u ook een",
+    "mergeRequest": "Samenvoegen verzoek",
+    "yourselfAtTheEndOf10": "jezelf aan het einde van de repository van 10 website.",
+    "howCanIGetInvolved": "Hoe kan ik betrokken raken bij de campagne?",
+    "thereAreManyWays": "Er zijn veel manieren om mee te doen! Neem contact met ons op zodat we uw inspanningen met de onze kunnen coördineren.",
+    "putRepairCafes": "Plaats reparatiecafés en onafhankelijke computerwinkels die Linux -ondersteuning aanbieden in contact met ons",
+    "organizeAnInstallationEvent": "Organiseer een installatie -evenement en laat het ons weten",
+    "designMaterials": "Ontwerpmaterialen voor nieuwe gebruikers zoals gidsen, promotie -flyers, enz.",
+    "distributeMaterials": "Distribueer materialen in cafés, winkels, universiteiten, scholen in uw omgeving",
+    "boostTheCampaign": "De online aanwezigheid van de campagne stimuleren door onze berichten op sociale media te delen",
+    "translateTheWebsite": "Vertaal de website (meer hieronder), campagnemateriaal, enz.",
+    "volunteerWithFoss": "Meld je aan bij Foss Communities die deelnemen aan de campagne (het verbeteren van documentatie, software -foutopsporing, ontwerp)",
+    "yourIdeas": "Uw ideeën",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Welke communicatieplatforms gebruikt het einde van 10 campagnes?",
+    "writeUsAtOneOfThesePublicChannels": "Schrijf ons op een van deze openbare kanalen, stel jezelf voor en laat ons weten hoe je mee wilt doen:",
+    "mailingList": "Mailinglijst",
+    "isTheCampaignActiveOnSocialMedia": "Is de campagne actief op sociale media?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "We zijn op het Fediverse! Volg ons Mastodon -account en stimuleer onze berichten",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Hoe kan ik helpen met de vertaling van de website endof10.org?",
+    "theWebsiteIsHostedByKde": "De website wordt gehost door KDE en volgt de vertaalworkflow die wordt gebruikt voor alle websites van KDE.",
+    "findYourLanguageTeam": "Vind uw taalteam",
+    "learnAboutTheProcess": "Meer informatie over het proces",
+    "doYouAlreadyHaveAFlyer": "Heb je al een flyer/poster die reclame maakt voor het einde van 10 campagne?",
+    "youCanFindALeafletInVariousLanguagesHere": "U kunt hier een folder vinden in verschillende talen",
+    "weAreWorkingOnPosters": "We werken aan posters. Kijk hier binnenkort weer.",
+    "favoriteDistro": "Waarom wordt [Favoriete distro niet in invoegen] op de website gepromoot?",
+    "distroAgnostic": "Het einde van 10 website en outreach zijn opzettelijk distro-agnostisch. Het doel is om te spreken als een grote Foss -familie. We willen dat de campagne en activiteiten al onze gemeenschappen vertegenwoordigen.",
+    "doesDistroAgnosticMean": "Kan distro-agnostische gemiddelde fossgemeenschappen hun eigen werk niet promoten?",
+    "IndividualFossCommunities": "Individuele fossgemeenschappen zijn welkom om hun eigen werk te promoten in de context van de campagne, met twee voorbehouden: (i) Het moet duidelijk zijn dat u voor uw gemeenschap spreekt en niet de campagne, en (ii) u moet niet negatief spreken over het werk van andere gemeenschappen.",
+    "forExample": "Een van de geplande activiteiten is bijvoorbeeld een \"lijsten van 10\" sociale media -campagne met de hashtag #endof10. In deze context:",
+    "theOfficialEndOf10SocialMedia": "Het officiële einde van 10 sociale media -account blijft zo neutraal mogelijk (bijvoorbeeld '10 redenen om over te schakelen naar Linux ') en bevordert geen specifieke distro.",
+    "yourCommunity": "Uw community is outreach op sociale media met een \"10 redenen om over te schakelen naar [uw project]\" met de #endof10 hashtag. In de lijst met redenen dat u uw eigen werk promoot. Het zou echter onaanvaardbaar zijn om negatief te spreken over het werk van een andere foss -gemeenschap."
+  },
+  "events": {
+    "upcomingEvents": "Aankomende evenementen",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Hier is een lijst met evenementen waar u hulp kunt krijgen bij Linux. Je kunt ook zoeken",
+    "places": "plaatsen",
+    "thatProvideHelpMore": "die meer hulp bieden",
+    "thatProvideHelpMoreRegularly": "die vaker hulp bieden."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Waar kan ik Linux -ondersteuning vinden?",
+    "hereIsAListOfRepairCafes": "Hier is een lijst met reparatiecafés, onafhankelijke winkels, organisaties, groepen en collectieven waar u regelmatig hulp kunt krijgen bij Linux. Bekijk ook de evenementen."
+  },
+  "team": {
+    "teamBehindEndOf10": "Team achter het einde van 10",
+    "thisCampaign": "Deze campagne is mogelijk gemaakt door de enthousiaste bijdragen van de volgende mensen (vermeld in alfabetische volgorde bij achternaam):"
+  }
+}

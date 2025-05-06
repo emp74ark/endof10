@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Windows 10에 대한 지원은 2025 년 10 월 14 일에 끝납니다.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft는 새 컴퓨터를 구매하기를 원합니다.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "그러나 현재를 빠르고 다시 안전하게 만들 수 있다면 어떨까요?",
+    "ifYouBoughtYourComputerAfter2010": "2010 년 이후에 컴퓨터를 구입 한 경우 버릴 이유가 없습니다. 최신 Linux 운영 체제를 설치하면 앞으로 몇 년 동안 계속 사용할 수 있습니다.",
+    "installingAnOperatingSystemMaySoundDifficult": "운영 체제를 설치하는 것은 어려울 수 있지만 혼자 할 필요는 없습니다. 운이 좋으면 해당 지역에는 도와 줄 준비가되어 있습니다!",
+    "findSomeoneToHelpYou": "당신을 도울 사람을 찾으십시오 →",
+    "installLinuxYourself": "Linux 직접 설치 →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Windows 10 이후 다른 사람들이 컴퓨터를 살리도록 돕고 싶습니까?",
+    "signUpAsRepairCollective": "수리 집단 →로 가입하십시오",
+    "5Reasons": "5 가지 이유",
+    "toUpgradeYourOldComputerToLinux": "이전 컴퓨터를 Linux로 업그레이드합니다",
+    "itsWayCheaper": "waaaaay 저렴합니다",
+    "aNewLaptopCostsALotOfMoney": "새로운 노트북은 많은 비용이 듭니다. 수리 카페는 종종 무료로 도움이됩니다. 소프트웨어 업데이트도 무료입니다. 물론 기부금으로 두 가지에 대한 지원을 보여줄 수 있습니다!",
+    "noAdsNoSpying": "광고도없고 스파이도 없습니다",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Windows에는 요즘 많은 광고와 스파이웨어가 제공되어 컴퓨터를 늦추고 에너지 청구서를 증가시킵니다.",
+    "goodForThePlanet": "지구에 좋습니다",
+    "productionOfAComputerAccountsFor75": "컴퓨터 생산은 수명주기 동안 탄소 배출량의 75%를 차지합니다. 기능 장치를 더 오래 유지하는 것은 배출량을 줄이는 매우 효과적인 방법입니다.",
+    "communitySupport": "커뮤니티 지원",
+    "ifYouHaveAnyIssuesWithYourCompute": "컴퓨터에 문제가있는 경우 지역 수리 카페 및 독립 컴퓨터 상점이 있습니다. 온라인 포럼에서도 커뮤니티 지원을 찾을 수 있습니다.",
+    "userControl": "사용자 제어",
+    "youAreInControlOfTheSoftware": "당신은 회사가 아닌 소프트웨어를 제어하고 있습니다. 원하는만큼 원하는 방식으로 컴퓨터를 사용하십시오.",
+    "convinced": "설득?",
+    "thenFindYourClosestRepairCafe": "그런 다음 가장 가까운 수리 카페 나 독립 컴퓨터 상점을 찾아 새롭고 오래된 컴퓨터를 즐기십시오!",
+    "repairYourOldComputer": "이전 컴퓨터를 수리하십시오 →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY 설치 가이드",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "최고의 경험을 위해 직접 지원하는 것이 좋습니다.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "기술적으로 직접 할 수있을만큼 정통하다고 생각되면 Linux 설치에 필요한 세 단계가있는 일반 가이드가 있습니다. 배포판을 선택하면 웹 사이트에는 더 자세한 가이드가 있습니다.",
+    "doBackups": "백업을하십시오!",
+    "beforeYouStart": "시작하기 전에 다시 설치하려는 컴퓨터에서 중요한 데이터를 백업하십시오!",
+    "downloadANewOs": "새 OS를 다운로드하십시오",
+    "downloadTheOperatingSystem": "설치하려는 운영 체제를 다운로드하십시오. 초보자를위한 Linux 배포판을 검색하여 제안을 받으십시오.",
+    "flashToAUsbKey": "USB 키로 플래시",
+    "flashTheOperatingSystemToAUsbStick": "Rufus와 같은 표준 도구를 사용하여 운영 체제를 USB 스틱으로 플래시하십시오. USB 스틱의 모든 데이터를 덮어 쓸 것이므로 보관하려는 파일을 백업해야합니다.",
+    "getRufus": "rufus를 얻으십시오 →",
+    "bootAndInstallOnYourComputer": "컴퓨터에 부팅하고 설치하십시오",
+    "bootYourComputerFromYourUsbStick": "USB 스틱에서 컴퓨터를 부팅하십시오. 올바른 키보드 조합을 미리 알아야합니다. 이 시점에서 컴퓨터의 모든 데이터를 덮어 쓰므로 보관하려는 파일을 백업하십시오. 지침을 따르십시오. 새롭고 오래된 컴퓨터에 오신 것을 환영합니다!"
+  },
+  "event": {
+    "language": "언어",
+    "from": "에서",
+    "to": "에게",
+    "website": "웹 사이트"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "10 개의 웹 사이트 콘텐츠의 끝",
+    "isLicensedUnder": "라이센스가 부여됩니다",
+    "thanksToKdeForSupportingTheProject": "웹 사이트를 호스팅하고 인프라를 제공하여 프로젝트를 지원해 주신 KDE에게 감사드립니다. 연락 할 수 있습니다",
+    "publicMailingList": "(공개 메일 링리스트) 또는 참조",
+    "privacyPolicy": "개인 정보 보호 정책",
+    "and": "그리고",
+    "legalNotices": "법적 통지",
+    "forMoreInformation": "자세한 정보."
+  },
+  "search": {
+    "search": "찾다"
+  },
+  "languages": {
+    "languages": "언어"
+  },
+  "nav": {
+    "places": "장소",
+    "events": "이벤트",
+    "diyInstall": "DIY 설치",
+    "team": "팀",
+    "addAPlaceOrEvent": "장소 나 이벤트를 추가하십시오",
+    "contribute": "기여하다",
+    "websiteSource": "웹 사이트 소스"
+  },
+  "contribute": {
+    "contribute": "기여하다",
+    "whenCanIPublish": "endof10.org에서 수리 카페 또는 독립 컴퓨터 상점을 언제 게시 할 수 있습니까?",
+    "ifYouOfferLinuxHelp": "Linux 도움말을 제공하는 경우 지금 위치를 추가 할 수 있습니다!",
+    "aDescriptionOfTheInformationWeNeedFor": "필요한 정보에 대한 설명",
+    "places": "장소",
+    "andFor": "그리고",
+    "events": "이벤트",
+    "canBeFoundAtTheGitRepository": "git 저장소의 readme에서 찾을 수 있습니다. 이메일로 이메일로 endof10 [at] lists.posteo.de로 보냅니다. 가능하다면 해당 정보를 JSON 형식으로 제공하여 도와주세요.",
+    "ifYouHaveTheTechnicalKnow": "기술 노하우가 있다면",
+    "mergeRequest": "병합 요청",
+    "yourselfAtTheEndOf10": "10 개의 웹 사이트의 저장소가 끝날 때 자신.",
+    "howCanIGetInvolved": "캠페인에 어떻게 참여할 수 있습니까?",
+    "thereAreManyWays": "참여하는 방법에는 여러 가지가 있습니다! 우리는 당신의 노력을 우리와 함께 조정할 수 있도록 저희에게 연락하십시오.",
+    "putRepairCafes": "Linux 지원을 제공하는 수리 카페 및 독립적 인 컴퓨터 상점을 우리와 연락하십시오.",
+    "organizeAnInstallationEvent": "설치 이벤트를 구성하고 이에 대해 알려주십시오.",
+    "designMaterials": "가이드, 홍보 전단지 등과 같은 새로운 사용자를위한 디자인 자료",
+    "distributeMaterials": "카페, 상점, 대학, 해당 지역의 학교에 자료를 배포",
+    "boostTheCampaign": "소셜 미디어 게시물을 공유하여 캠페인의 온라인 입지를 향상시킵니다.",
+    "translateTheWebsite": "웹 사이트 (아래 더 아래), 캠페인 자료 등을 번역하십시오.",
+    "volunteerWithFoss": "캠페인에 참여하는 Foss 커뮤니티와의 자원 봉사 (문서 개선, 소프트웨어 디버깅, 디자인)",
+    "yourIdeas": "당신의 아이디어",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "10 캠페인 종료는 어떤 통신 플랫폼을 사용합니까?",
+    "writeUsAtOneOfThesePublicChannels": "이 공개 채널 중 하나에 우리에게 글을 쓰고 자신을 소개하고 어떻게 참여하고 싶은지 알려주십시오.",
+    "mailingList": "메일 링리스트",
+    "isTheCampaignActiveOnSocialMedia": "캠페인이 소셜 미디어에서 활성화되어 있습니까?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "우리는 Fediverse에 있습니다! Mastodon 계정을 따르고 게시물을 강화하십시오",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "endof10.org 웹 사이트의 번역을 어떻게 도울 수 있습니까?",
+    "theWebsiteIsHostedByKde": "이 웹 사이트는 KDE가 호스팅하고 모든 KDE 웹 사이트에 사용되는 번역 워크 플로를 따릅니다.",
+    "findYourLanguageTeam": "언어 팀을 찾으십시오",
+    "learnAboutTheProcess": "프로세스에 대해 알아보십시오",
+    "doYouAlreadyHaveAFlyer": "이미 10 개의 캠페인이 끝나는 전단지/포스터가 있습니까?",
+    "youCanFindALeafletInVariousLanguagesHere": "여기에서 다양한 언어로 전단지를 찾을 수 있습니다",
+    "weAreWorkingOnPosters": "우리는 포스터에서 일하고 있습니다. 곧 다시 확인하십시오.",
+    "favoriteDistro": "왜 [삽입 좋아하는 배포판]이 웹 사이트에서 홍보하지 않습니까?",
+    "distroAgnostic": "10 개의 웹 사이트와 봉사 활동의 끝은 의도적으로 산적적입니다. 목표는 큰 포스 가족으로 말하는 것입니다. 우리는 캠페인과 활동이 모든 지역 사회를 대표하기를 원합니다.",
+    "doesDistroAgnosticMean": "Acto-Agnostic은 Foss 커뮤니티가 자신의 작업을 촉진 할 수 없습니까?",
+    "IndividualFossCommunities": "개별 FOSS 커뮤니티는 캠페인의 맥락에서 두 가지 경고와 함께 자신의 작업을 홍보 할 수 있습니다. (i) 캠페인이 아닌 커뮤니티를 위해 말하고 있다는 것이 분명해야합니다.",
+    "forExample": "예를 들어, 계획된 활동 중 하나는 해시 태그 #endof10을 갖춘 \"10 개의 소셜 미디어 캠페인 목록입니다. 이러한 맥락에서 :",
+    "theOfficialEndOf10SocialMedia": "10 개의 소셜 미디어 계정의 공식 종료는 가능한 한 중립적 인 상태로 유지되며 (예 : '10 Linux로 전환 해야하는 이유 ') 특정 배포판을 홍보하지 않습니다.",
+    "yourCommunity": "귀하의 커뮤니티는 #endof10 해시 태그와 함께 \"[귀하의 프로젝트]로 전환 해야하는 10 가지 이유\"로 소셜 미디어에 대한 봉사 활동을합니다. 이유의 목록에서 자신의 작업을 홍보합니다. 그러나 다른 Foss 커뮤니티의 작업에 대해 부정적으로 말하는 것은 용납 할 수 없습니다."
+  },
+  "events": {
+    "upcomingEvents": "다가오는 이벤트",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "다음은 Linux에 도움을 줄 수있는 이벤트 목록입니다. 당신은 또한 찾을 수 있습니다",
+    "places": "장소",
+    "thatProvideHelpMore": "더 많은 도움을 제공합니다",
+    "thatProvideHelpMoreRegularly": "더 정기적으로 도움을 제공합니다."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Linux 지원은 어디에서 찾을 수 있습니까?",
+    "hereIsAListOfRepairCafes": "다음은 정기적으로 Linux에 도움을 줄 수있는 수리 카페, 독립 상점, 조직, 그룹 및 집단 목록입니다. 또한 이벤트를 살펴보십시오."
+  },
+  "team": {
+    "teamBehindEndOf10": "10의 뒤에 팀",
+    "thisCampaign": "이 캠페인은 다음 사람들의 열정적 인 기여 (성으로 알파벳 순서로 등재)에 의해 가능해졌습니다."
+  }
+}

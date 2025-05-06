@@ -1,0 +1,130 @@
+{
+  "welcome": {
+    "supportForWindows10EndsOnOctober14": "Atbalsts Windows 10 beidzas 2025. gada 14. oktobrī.",
+    "microsoftWantsYouToBuyANewComputer": "Microsoft vēlas, lai jūs iegādātos jaunu datoru.",
+    "butWhatIfYouCouldMakeYourCurrentOneFastAndSecureAgain": "Bet ko tad, ja jūs varētu padarīt savu pašreizējo vienu ātru un drošu vēlreiz?",
+    "ifYouBoughtYourComputerAfter2010": "Ja jūs iegādājāties datoru pēc 2010. gada, visticamāk, nav iemesla to izmest. Tikai instalējot atjauninātu Linux operētājsistēmu, jūs to varat turpināt izmantot nākamajiem gadiem.",
+    "installingAnOperatingSystemMaySoundDifficult": "Operētājsistēmas instalēšana var izklausīties grūti, taču jums tā nav jādara vienam. Ar jebkuru veiksmi jūsu reģionā ir cilvēki, kas ir gatavi palīdzēt!",
+    "findSomeoneToHelpYou": "Atrodiet kādu, kas jums palīdzētu →",
+    "installLinuxYourself": "Instalējiet Linux pats →",
+    "wouldYouLikeToHelpOthersKeepTheirComputerAliveAfterWindows10": "Vai vēlaties palīdzēt citiem saglabāt datoru dzīvu pēc Windows 10?",
+    "signUpAsRepairCollective": "Reģistrējieties kā remonta kolektīvs →",
+    "5Reasons": "5 iemesli",
+    "toUpgradeYourOldComputerToLinux": "Lai jauninātu veco datoru uz Linux",
+    "itsWayCheaper": "Tas ir waaaaay lētāk",
+    "aNewLaptopCostsALotOfMoney": "Jauns klēpjdators maksā daudz naudas. Remonta kafejnīcas bieži jums palīdzēs bez maksas. Arī programmatūras atjauninājumi ir bez maksas, mūžīgi. Jūs, protams, varat parādīt savu atbalstu abiem ar ziedojumiem!",
+    "noAdsNoSpying": "Nav reklāmu, nav spiegošanas",
+    "windowsComesWithLotsOfAdsAndSpywareNowadays": "Mūsdienās Windows nāk ar daudzām reklāmām un spiegprogrammatūrām, palēninot datoru un palielinot enerģijas rēķinu.",
+    "goodForThePlanet": "Labi planētai",
+    "productionOfAComputerAccountsFor75": "Datora ražošana veido 75+% oglekļa emisijas tā dzīves ciklā. Darbības ierīces ilgāka turēšana ir ļoti efektīvs veids, kā samazināt emisijas.",
+    "communitySupport": "Sabiedrības atbalsts",
+    "ifYouHaveAnyIssuesWithYourCompute": "Ja jums ir kādas problēmas ar datoru, vietējā remonta kafejnīca un neatkarīgais datoru veikals ir paredzēts jums. Sabiedrības atbalstu varat atrast arī tiešsaistes forumos.",
+    "userControl": "Lietotāju kontrole",
+    "youAreInControlOfTheSoftware": "Jūs kontrolējat programmatūru, nevis uzņēmumus. Izmantojiet datoru, kā vēlaties, tik ilgi, cik vēlaties.",
+    "convinced": "Pārliecināts?",
+    "thenFindYourClosestRepairCafe": "Pēc tam atrodiet savu tuvāko remonta kafejnīcu vai neatkarīgo datoru veikalu un izbaudiet savu pavisam jauno, veco datoru!",
+    "repairYourOldComputer": "Remontējiet savu veco datoru →"
+  },
+  "install": {
+    "diyInstallGuide": "DIY instalēšanas rokasgrāmata",
+    "weRecommendGettingIn-personSupportForTheBestExperience": "Mēs iesakām saņemt klātienes atbalstu par labāko pieredzi.",
+    "ifYouFeelYouAreTechnicallyVersedEnoughToDoItYourself": "Ja jūtat, ka esat tehniski pietiekami daudz, lai to izdarītu pats, šeit ir vispārīgs ceļvedis ar trim darbībām, kas vajadzīgas Linux instalēšanai. Kad esat izvēlējies izplatīšanu, viņu vietnei būs sīkāki ceļveži, kurus varat sekot.",
+    "doBackups": "Veiciet rezerves kopijas!",
+    "beforeYouStart": "Pirms sākat, pārliecinieties, ka esat dublējis visus svarīgus datus no datora, kuru gatavojaties pārinstalēt!",
+    "downloadANewOs": "Lejupielādējiet jaunu OS",
+    "downloadTheOperatingSystem": "Lejupielādējiet operētājsistēmu, kuru vēlaties instalēt. Meklējiet Linux izplatīšanu iesācējiem, lai iegūtu dažus ieteikumus.",
+    "flashToAUsbKey": "Zibspuldze uz USB atslēgu",
+    "flashTheOperatingSystemToAUsbStick": "Flash operētājsistēma uz USB nūju, izmantojot standarta rīku, piemēram, Rufus. Tas pārrakstīs visus datus par USB nūju, tāpēc noteikti dublējiet failus, kurus vēlaties glabāt.",
+    "getRufus": "Iegūstiet Rufus →",
+    "bootAndInstallOnYourComputer": "Sāknēšana un instalēšana datorā",
+    "bootYourComputerFromYourUsbStick": "Palaidiet datoru no USB nūjas. Iepriekš jums būs jāzina pareizā tastatūras kombinācija. Šajā brīdī jūs pārrakstīsit visus datora datus, tāpēc dublējiet failus, kurus vēlaties glabāt. Izpildiet instrukcijas un Voilà! Laipni lūdzam savā jaunajā, vecajā datorā!"
+  },
+  "event": {
+    "language": "Valoda",
+    "from": "No",
+    "to": "līdz",
+    "website": "Vietne"
+  },
+  "footer": {
+    "endOf10WebsiteContent": "10 vietnes satura beigas",
+    "isLicensedUnder": "ir licencēts zem",
+    "thanksToKdeForSupportingTheProject": "Paldies KDE par projekta atbalstīšanu, mitinot vietni un nodrošinot infrastruktūru. Jūs varat sazināties ar",
+    "publicMailingList": "(publisks adresātu saraksts) vai redzēt",
+    "privacyPolicy": "Konfidencialitātes politika",
+    "and": "un",
+    "legalNotices": "Juridiski paziņojumi",
+    "forMoreInformation": "Papildinformāciju."
+  },
+  "search": {
+    "search": "Meklēšana"
+  },
+  "languages": {
+    "languages": "Valodas"
+  },
+  "nav": {
+    "places": "Vieta",
+    "events": "Notikumi",
+    "diyInstall": "DIY instalēšana",
+    "team": "Komanda",
+    "addAPlaceOrEvent": "Pievienojiet vietu vai notikumu",
+    "contribute": "Dot ieguldījumu",
+    "websiteSource": "Tīmekļa vietnes avots"
+  },
+  "contribute": {
+    "contribute": "Dot ieguldījumu",
+    "whenCanIPublish": "Kad es varu publicēt mūsu remonta kafejnīcu vai neatkarīgo datoru veikalu vietnē Endof10.org?",
+    "ifYouOfferLinuxHelp": "Ja jūs piedāvājat Linux palīdzību, varat pievienot savu atrašanās vietu tūlīt!",
+    "aDescriptionOfTheInformationWeNeedFor": "Informācijas apraksts, kas mums nepieciešama",
+    "places": "vieta",
+    "andFor": "un par",
+    "events": "notikumi",
+    "canBeFoundAtTheGitRepository": "var atrast GIT repozitorija README. Nosūtiet informāciju pa e -pastu uz Endof10 [at] listes.posteo.de. Ja varat, palīdziet mums, sniedzot šo informāciju JSON formātā.",
+    "ifYouHaveTheTechnicalKnow": "Ja jums ir tehniskā kompetence, varat arī izveidot a",
+    "mergeRequest": "Apvienot pieprasījumu",
+    "yourselfAtTheEndOf10": "pats 10 vietnes krātuves beigās.",
+    "howCanIGetInvolved": "Kā es varu iesaistīties kampaņā?",
+    "thereAreManyWays": "Ir daudz veidu, kā iesaistīties! Sazinieties ar mums, lai mēs varētu koordinēt jūsu centienus ar mūsējiem.",
+    "putRepairCafes": "Ievietojiet remonta kafejnīcas un neatkarīgus datoru veikalus",
+    "organizeAnInstallationEvent": "Sakārtojiet instalācijas pasākumu un dariet mums to zināmu",
+    "designMaterials": "Dizaina materiāli jauniem lietotājiem, piemēram, ceļvežiem, reklāmas skrejlapām utt.",
+    "distributeMaterials": "Izplatiet materiālus kafejnīcās, veikalos, universitātēs, skolas jūsu reģionā",
+    "boostTheCampaign": "Palieliniet kampaņas klātbūtni tiešsaistē, daloties ar mūsu sociālo mediju ziņām",
+    "translateTheWebsite": "Tulkojiet vietni (vairāk zemāk), kampaņas materiāli utt.",
+    "volunteerWithFoss": "Brīvprātīgais ar fosu kopienām, kas piedalās kampaņā (uzlabojot dokumentāciju, programmatūras atkļūdošanu, dizainu)",
+    "yourIdeas": "Jūsu idejas",
+    "whichCommunicationPlatformsDoesTheEndOf10CampaignUse": "Kuras komunikācijas platformas izmanto 10 kampaņas beigas?",
+    "writeUsAtOneOfThesePublicChannels": "Rakstiet mūs vienā no šiem publiskajiem kanāliem, iepazīstiniet ar sevi un dariet mums zināmu, kā vēlaties iesaistīties:",
+    "mailingList": "Adresātu saraksts",
+    "isTheCampaignActiveOnSocialMedia": "Vai kampaņa ir aktīva sociālajos medijos?",
+    "weAreOnTheFediverse!FollowOurMastodonAccountAndBoostOurPosts": "Mēs esam uz fediverse! Sekojiet mūsu Mastodon kontam un pastipriniet mūsu ziņas",
+    "howCanIHelpWithTheTranslationOfTheEndOf10": "Kā es varu palīdzēt vietnes endof10.org tulkojumā?",
+    "theWebsiteIsHostedByKde": "Vietni mitina KDE, un tā seko tulkošanas darbplūsmai, ko izmanto visām KDE vietnēm.",
+    "findYourLanguageTeam": "Atrodiet savu valodas komandu",
+    "learnAboutTheProcess": "Uzziniet par procesu",
+    "doYouAlreadyHaveAFlyer": "Vai jums jau ir skrejlapas/plakāts, kas reklamē 10 kampaņas beigas?",
+    "youCanFindALeafletInVariousLanguagesHere": "Jūs varat atrast brošūru dažādās valodās šeit",
+    "weAreWorkingOnPosters": "Mēs strādājam pie plakātiem. Drīz pārbaudiet šeit vēlreiz.",
+    "favoriteDistro": "Kāpēc vietne netiek reklamēta [ievietot iecienīto distro]?",
+    "distroAgnostic": "10 vietnes un informēšanas beigas ir apzināti distro-agnostiski. Mērķis ir runāt kā lielu fosu ģimeni. Mēs vēlamies, lai kampaņa un aktivitātes pārstāvētu visas mūsu kopienas.",
+    "doesDistroAgnosticMean": "Vai distrlo-agnostic nozīmē fosa kopienas nevar reklamēt savu darbu?",
+    "IndividualFossCommunities": "Atsevišķas fosa kopienas ir laipni aicinātas reklamēt savu darbu kampaņas kontekstā ar diviem brīdinājumiem: (i) ir jābūt skaidram, ka jūs runājat par savu kopienu, nevis kampaņu, un (ii) jūs nedrīkstat negatīvi runāt par citu kopienu darbu.",
+    "forExample": "Piemēram, viena no plānotajām darbībām ir \"10\" sarakstu sociālo mediju kampaņa ar hashtag #endof10. Šajā kontekstā:",
+    "theOfficialEndOf10SocialMedia": "10 sociālo mediju konta oficiālais beigas paliek pēc iespējas neitrālāka (piemēram, '10 iemesli pārslēgties uz Linux ') un neveicina nevienu konkrētu distrlo.",
+    "yourCommunity": "Jūsu kopiena sniedz saziņu sociālajos medijos ar \"10 iemesliem, lai pārietu uz [jūsu projektu]\" ar #Endof10 hashtag. Iemeslu sarakstā jūs reklamējat savu darbu. Tomēr nebūtu nepieņemami negatīvi runāt par jebkuru citu fosa kopienas darbu."
+  },
+  "events": {
+    "upcomingEvents": "Gaidāmie pasākumi",
+    "hereIsAListOfEventsWhereYouCanGetHelpWithLinux": "Šeit ir saraksts ar notikumiem, kuros varat saņemt palīdzību ar Linux. Jūs varat arī meklēt",
+    "places": "vieta",
+    "thatProvideHelpMore": "kas sniedz palīdzību vairāk",
+    "thatProvideHelpMoreRegularly": "kas regulāri sniedz palīdzību."
+  },
+  "places": {
+    "whereCanIFindLinuxSupport": "Kur es varu atrast Linux atbalstu?",
+    "hereIsAListOfRepairCafes": "Šeit ir remonta kafejnīcu, neatkarīgu veikalu, organizāciju, grupu un kolektīvu saraksts, kur regulāri varat saņemt palīdzību ar Linux. Apskatiet arī notikumus."
+  },
+  "team": {
+    "teamBehindEndOf10": "Komanda aiz 10 beigām",
+    "thisCampaign": "Šo kampaņu ir padarījusi iespējama šo cilvēku aizrautīgais ieguldījums (uzskaitīts alfabēta secībā pēc uzvārda):"
+  }
+}
